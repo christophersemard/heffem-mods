@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-15T23:15:23Z",
+  "published": "2026-11-15T23:56:18Z",
   "mods": {
     "academy": {
-      "version": "0.9.15",
+      "version": "0.9.16",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.15/HeffemAcademy.dll",
-      "sha256": "cb5bf66172b38ea9a92f6ab179b0628a744d08e0fa70c04a4b23158109d9634e",
-      "size": 5643776,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.16/HeffemAcademy.dll",
+      "sha256": "8cc1ce75413b3665c2c3008f72e008a358c1d25e066faee0da98622646a7dd7f",
+      "size": 5666816,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Mon centre : message clair quand les fonds manquent. Correctifs sur les noms proposés. Mises à jour repérées plus vite après le lancement.",
-      "messageEn": "My centre: clear message when funds are short. Fixes for suggested names. Updates are detected sooner after launch."
+      "messageFr": "Prise en charge de l'Eskelie, un nouveau pays bientôt sur FMScout : noms des jeunes, origines et carte.",
+      "messageEn": "Support for Eskelie, a new country coming soon on FMScout: youth names, origins and map."
     },
     "tirage": {
-      "version": "0.6.9",
+      "version": "0.6.10",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.9/HeffemTirage.dll",
-      "sha256": "42ce3247bd52270718b7b192eb3049fcf01dcfc8ef27470bbfedc103a83ff086",
-      "size": 2256896,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.10/HeffemTirage.dll",
+      "sha256": "fb3ce9d0c3f13bd9a45ded537bea3d1dce89d3283325b3a04150c4d21598e908",
+      "size": 2278912,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Mon centre : message clair quand les fonds manquent. Correctifs sur les noms proposés. Mises à jour repérées plus vite après le lancement.",
-      "messageEn": "My centre: clear message when funds are short. Fixes for suggested names. Updates are detected sooner after launch."
+      "messageFr": "Prise en charge de l'Eskelie, un nouveau pays bientôt sur FMScout : drapeau, Europe et coefficient UEFA. Les championnats des bases personnalisées sont maintenant détectés. Correctifs.",
+      "messageEn": "Support for Eskelie, a new country coming soon on FMScout: flag, Europe and UEFA coefficient. Leagues from custom databases are now detected. Bug fixes."
     }
   }
 }
