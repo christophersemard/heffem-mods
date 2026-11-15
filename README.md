@@ -20,7 +20,7 @@ This repository holds the **published files** of the Heffem mods for Football Ma
 3. If a newer version exists, the mod downloads its DLL from the release, checks its size and SHA-256 fingerprint against the signed `latest.json`, and puts it aside (`BepInEx/HeffemUpdates`). The DLL in use is never touched while the game runs.
 4. On the next game start, a small loader module (`BepInEx/patchers/HeffemUpdater.dll`, installed with the mods) swaps in the new DLL before the mods load, and keeps the previous one in `BepInEx/HeffemUpdates/previous`.
 
-**To turn it off**: set `MisesAJourAuto = false` in `BepInEx/config/fr.heffem.academy.cfg` (or `fr.heffem.tirage.cfg`). The mod then never connects to anything.
+**Test phase: automatic updates are OFF by default.** To turn them on, set `MisesAJourAuto = true` in `BepInEx/config/fr.heffem.academy.cfg` (or `fr.heffem.tirage.cfg`); set it back to `false` to turn them off. When off, the mod never connects to anything. Manual downloads and installers on the mods page stay available as before.
 
 **To go back to the previous version**: copy `BepInEx/HeffemUpdates/previous/<mod>.dll` back into `BepInEx/plugins`, then turn updates off.
 
@@ -68,4 +68,4 @@ Ce dépôt contient seulement les **fichiers publiés** des mods Heffem pour Foo
 - Au démarrage, le mod lit `latest.json` et sa signature, sans rien envoyer (ni compte, ni partie, ni donnée personnelle).
 - La signature est vérifiée avec la clé publique intégrée au mod : un fichier non signé ou modifié est refusé.
 - La nouvelle DLL est téléchargée, contrôlée (taille, empreinte SHA-256), mise de côté, puis installée au lancement suivant du jeu. L'ancienne est gardée dans `BepInEx/HeffemUpdates/previous`.
-- Pour couper les mises à jour : `MisesAJourAuto = false` dans `BepInEx/config/fr.heffem.academy.cfg` (ou `fr.heffem.tirage.cfg`).
+- **Phase de test : mises à jour automatiques coupées par défaut.** Pour les activer : `MisesAJourAuto = true` dans `BepInEx/config/fr.heffem.academy.cfg` (ou `fr.heffem.tirage.cfg`) ; `false` pour les couper. Coupées, le mod ne se connecte jamais. Les téléchargements et installateurs manuels restent disponibles.
