@@ -11,11 +11,11 @@ This repository holds the **published files** of the Heffem mods for Football Ma
 Latest packages of each mod. / Derniers paquets de chaque mod.
 
 <!-- downloads:academy -->
-**Heffem Academy Manager 0.9.14**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.14/Heffem-Academy-Manager-0.9.14-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.14/Heffem-Academy-Manager-0.9.14-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.14/Heffem-Academy-Manager-0.9.14-Mac.zip)
+**Heffem Academy Manager 0.9.15**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.15/Heffem-Academy-Manager-0.9.15-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.15/Heffem-Academy-Manager-0.9.15-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.15/Heffem-Academy-Manager-0.9.15-Mac.zip)
 <!-- /downloads:academy -->
 
 <!-- downloads:tirage -->
-**Heffem Nations Draw 0.6.8**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.8/Heffem-Nations-Draw-0.6.8-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.8/Heffem-Nations-Draw-0.6.8-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.8/Heffem-Nations-Draw-0.6.8-Mac.zip)
+**Heffem Nations Draw 0.6.9**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.9/Heffem-Nations-Draw-0.6.9-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.9/Heffem-Nations-Draw-0.6.9-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.9/Heffem-Nations-Draw-0.6.9-Mac.zip)
 <!-- /downloads:tirage -->
 <!-- /downloads-section -->
 
@@ -29,7 +29,7 @@ Latest packages of each mod. / Derniers paquets de chaque mod.
 
 ## How automatic updates work
 
-1. When a mod starts, it downloads `latest.json` and its signature in the background. Nothing is sent: no account, no save data, no personal information. The request only reads public files from GitHub.
+1. When a mod starts, 2 minutes later, then every 30 minutes while the game runs, it downloads `latest.json` and its signature in the background. Nothing is sent: no account, no save data, no personal information. The request only reads public files from GitHub.
 2. The mod checks the signature with the public key built into it (below). An unsigned or modified file is refused.
 3. If a newer version exists, the mod downloads its DLL from the release, checks its size and SHA-256 fingerprint against the signed `latest.json`, and puts it aside (`BepInEx/HeffemUpdates`). The DLL in use is never touched while the game runs.
 4. On the next game start, a small loader module (`BepInEx/patchers/HeffemUpdater.dll`, installed with the mods) swaps in the new DLL before the mods load, and keeps the previous one in `BepInEx/HeffemUpdates/previous`.

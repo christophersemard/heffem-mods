@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-15T22:46:41Z",
+  "published": "2026-11-15T23:15:23Z",
   "mods": {
     "academy": {
-      "version": "0.9.14",
+      "version": "0.9.15",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.14/HeffemAcademy.dll",
-      "sha256": "a85a6a6bcc0386027b79c17755bc8691c6dc69a6b9128b1cc80869181ef1783a",
-      "size": 5642240,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.15/HeffemAcademy.dll",
+      "sha256": "cb5bf66172b38ea9a92f6ab179b0628a744d08e0fa70c04a4b23158109d9634e",
+      "size": 5643776,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Installateur : diagnostic et réparation automatiques. Annonces de mise à jour en partie et au menu d'accueil. Correctifs de stabilité.",
-      "messageEn": "Installer: automatic diagnosis and repair. Update notices in game and on the main menu. Stability fixes."
+      "messageFr": "Mon centre : message clair quand les fonds manquent. Correctifs sur les noms proposés. Mises à jour repérées plus vite après le lancement.",
+      "messageEn": "My centre: clear message when funds are short. Fixes for suggested names. Updates are detected sooner after launch."
     },
     "tirage": {
-      "version": "0.6.8",
+      "version": "0.6.9",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.8/HeffemTirage.dll",
-      "sha256": "f051cfcd60d2e3faf3a2048b50e2b9eb5795759ed1e6424c43fed0848df274bd",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.9/HeffemTirage.dll",
+      "sha256": "42ce3247bd52270718b7b192eb3049fcf01dcfc8ef27470bbfedc103a83ff086",
       "size": 2256896,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Installateur : diagnostic et réparation automatiques. Annonces de mise à jour en partie et au menu d'accueil. Correctifs de stabilité.",
-      "messageEn": "Installer: automatic diagnosis and repair. Update notices in game and on the main menu. Stability fixes."
+      "messageFr": "Mon centre : message clair quand les fonds manquent. Correctifs sur les noms proposés. Mises à jour repérées plus vite après le lancement.",
+      "messageEn": "My centre: clear message when funds are short. Fixes for suggested names. Updates are detected sooner after launch."
     }
   }
 }
