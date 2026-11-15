@@ -1,13 +1,13 @@
 {
   "format": 1,
-  "published": "2026-11-15T21:40:25Z",
+  "published": "2026-11-15T21:44:16Z",
   "mods": {
     "academy": {
       "version": "0.9.10",
       "dll": "HeffemAcademy.dll",
       "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.10/HeffemAcademy.dll",
-      "sha256": "8571d653200b2eb369f1d4e77721db6cd16a5a799865c474d4387719b5a9138b",
-      "size": 5634560,
+      "sha256": "82a20d74d71c3fcd48ea4bb80a8e77820b6bf2f5782d63cf721e46354c404f79",
+      "size": 5635072,
       "minLoader": "BepInEx 6 be.793",
       "messageFr": "Événements plus clairs, tableaux sans débordement, mise à jour automatique avec message au menu d'accueil.",
       "messageEn": "Clearer events, tables no longer overflow, automatic updates with a notice on the main menu."
