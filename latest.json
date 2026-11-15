@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-15T21:44:16Z",
+  "published": "2026-11-15T21:52:28Z",
   "mods": {
     "academy": {
-      "version": "0.9.10",
+      "version": "0.9.11",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.10/HeffemAcademy.dll",
-      "sha256": "82a20d74d71c3fcd48ea4bb80a8e77820b6bf2f5782d63cf721e46354c404f79",
-      "size": 5635072,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.11/HeffemAcademy.dll",
+      "sha256": "70094bbab5355ad4d9742d8e43599fa99c9621e55cf157dfa3b1918a24e48e2e",
+      "size": 5635584,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Événements plus clairs, tableaux sans débordement, mise à jour automatique avec message au menu d'accueil.",
-      "messageEn": "Clearer events, tables no longer overflow, automatic updates with a notice on the main menu."
+      "messageFr": "Bouton Fermer de la fenêtre de mise à jour corrigé ; vérification des mises à jour toutes les 30 minutes.",
+      "messageEn": "Update window Close button fixed; updates checked every 30 minutes."
     }
   }
 }
