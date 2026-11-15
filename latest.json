@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-15T22:03:08Z",
+  "published": "2026-11-15T22:07:53Z",
   "mods": {
     "academy": {
-      "version": "0.9.12",
+      "version": "0.9.13",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.12/HeffemAcademy.dll",
-      "sha256": "bc56a98177fae2a8f4e9d635e47181c4a656e33696ba91a8f97e6a31f584d805",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.13/HeffemAcademy.dll",
+      "sha256": "e0c530b014b136b2d419f58cd515d65b5985cad077eddcb03e8acc5b34a0a5cf",
       "size": 5637120,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Mises à jour plus fiables (plus de retard du cache de GitHub) ; bouton Fermer de la fenêtre de mise à jour corrigé ; vérification toutes les 30 minutes.",
-      "messageEn": "More reliable updates (no more GitHub cache delay); update window Close button fixed; checked every 30 minutes."
+      "messageFr": "Mises à jour automatiques activées par défaut.",
+      "messageEn": "Automatic updates now on by default."
     },
     "tirage": {
-      "version": "0.6.6",
+      "version": "0.6.7",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.6/HeffemTirage.dll",
-      "sha256": "4473df10de9471b7dc4d69fbc2270fce3a9e8c8e05dfd0993bdf0383a56d056d",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.7/HeffemTirage.dll",
+      "sha256": "c0e54d46f807f4ab5af35db69aa16671360296440c3f199d4f7a20cc56669c8e",
       "size": 2251264,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Tirages plus sûrs après les matchs de test et les rechargements ; correctifs Mac ; mises à jour automatiques.",
-      "messageEn": "Safer draws after tactical test matches and reloads; Mac fixes; automatic updates."
+      "messageFr": "Mises à jour automatiques activées par défaut.",
+      "messageEn": "Automatic updates now on by default."
     }
   }
 }

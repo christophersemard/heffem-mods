@@ -11,11 +11,11 @@ This repository holds the **published files** of the Heffem mods for Football Ma
 Latest packages of each mod. / Derniers paquets de chaque mod.
 
 <!-- downloads:academy -->
-**Heffem Academy Manager 0.9.12**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.12/Heffem-Academy-Manager-0.9.12-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.12/Heffem-Academy-Manager-0.9.12-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.12/Heffem-Academy-Manager-0.9.12-Mac.zip)
+**Heffem Academy Manager 0.9.13**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.13/Heffem-Academy-Manager-0.9.13-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.13/Heffem-Academy-Manager-0.9.13-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.13/Heffem-Academy-Manager-0.9.13-Mac.zip)
 <!-- /downloads:academy -->
 
 <!-- downloads:tirage -->
-**Heffem Nations Draw 0.6.6**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.6/Heffem-Nations-Draw-0.6.6-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.6/Heffem-Nations-Draw-0.6.6-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.6/Heffem-Nations-Draw-0.6.6-Mac.zip)
+**Heffem Nations Draw 0.6.7**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.7/Heffem-Nations-Draw-0.6.7-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.7/Heffem-Nations-Draw-0.6.7-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.7/Heffem-Nations-Draw-0.6.7-Mac.zip)
 <!-- /downloads:tirage -->
 <!-- /downloads-section -->
 
@@ -34,9 +34,9 @@ Latest packages of each mod. / Derniers paquets de chaque mod.
 3. If a newer version exists, the mod downloads its DLL from the release, checks its size and SHA-256 fingerprint against the signed `latest.json`, and puts it aside (`BepInEx/HeffemUpdates`). The DLL in use is never touched while the game runs.
 4. On the next game start, a small loader module (`BepInEx/patchers/HeffemUpdater.dll`, installed with the mods) swaps in the new DLL before the mods load, and keeps the previous one in `BepInEx/HeffemUpdates/previous`.
 
-**Test phase: automatic updates are OFF by default.** To turn them on, set `MisesAJourAuto = true` in `BepInEx/config/fr.heffem.academy.cfg` (or `fr.heffem.tirage.cfg`); set it back to `false` to turn them off. When off, the mod never connects to anything. Manual downloads and installers on the mods page stay available as before.
+**Automatic updates are on by default.** To turn them off, set `MisesAJourAutomatiques = false` in `BepInEx/config/fr.heffem.academy.cfg` (or `fr.heffem.tirage.cfg`); the mod then never connects to anything. Manual downloads (below and on the mods page) stay available.
 
-**To go back to the previous version**: copy `BepInEx/HeffemUpdates/previous/<mod>.dll` back into `BepInEx/plugins`, then turn updates off.
+**To go back to the previous version**: copy `BepInEx/HeffemUpdates/previous/<mod>.dll` back into `BepInEx/plugins`, then turn updates off (`MisesAJourAutomatiques = false`).
 
 Changes to the mod loader itself (BepInEx) are not delivered this way: they need a new installer from the mods page.
 
@@ -82,4 +82,4 @@ Ce dépôt contient seulement les **fichiers publiés** des mods Heffem pour Foo
 - Au démarrage, le mod lit `latest.json` et sa signature, sans rien envoyer (ni compte, ni partie, ni donnée personnelle).
 - La signature est vérifiée avec la clé publique intégrée au mod : un fichier non signé ou modifié est refusé.
 - La nouvelle DLL est téléchargée, contrôlée (taille, empreinte SHA-256), mise de côté, puis installée au lancement suivant du jeu. L'ancienne est gardée dans `BepInEx/HeffemUpdates/previous`.
-- **Phase de test : mises à jour automatiques coupées par défaut.** Pour les activer : `MisesAJourAuto = true` dans `BepInEx/config/fr.heffem.academy.cfg` (ou `fr.heffem.tirage.cfg`) ; `false` pour les couper. Coupées, le mod ne se connecte jamais. Les téléchargements et installateurs manuels restent disponibles.
+- **Mises à jour automatiques activées par défaut.** Pour les couper : `MisesAJourAutomatiques = false` dans `BepInEx/config/fr.heffem.academy.cfg` (ou `fr.heffem.tirage.cfg`) ; le mod ne se connecte alors jamais. Les téléchargements manuels restent disponibles.
