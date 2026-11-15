@@ -5,6 +5,16 @@ This repository holds the **published files** of the Heffem mods for Football Ma
 - Mods page and downloads: [FMScout](https://www.fmscout.com/)
 - Contact: Discord **krysler**, Twitter [@Krysler____](https://x.com/Krysler____)
 
+<!-- downloads-section -->
+## Downloads / Téléchargements
+
+Latest packages of each mod. / Derniers paquets de chaque mod.
+
+<!-- downloads:tirage -->
+**Heffem Nations Draw 0.6.6**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.6/Heffem-Nations-Draw-0.6.6-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.6/Heffem-Nations-Draw-0.6.6-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.6/Heffem-Nations-Draw-0.6.6-Mac.zip)
+<!-- /downloads:tirage -->
+<!-- /downloads-section -->
+
 ## What's in here
 
 | File | What it is |
