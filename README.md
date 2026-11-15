@@ -11,11 +11,11 @@ This repository holds the **published files** of the Heffem mods for Football Ma
 Latest packages of each mod. / Derniers paquets de chaque mod.
 
 <!-- downloads:academy -->
-**Heffem Academy Manager 0.9.13**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.13/Heffem-Academy-Manager-0.9.13-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.13/Heffem-Academy-Manager-0.9.13-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.13/Heffem-Academy-Manager-0.9.13-Mac.zip)
+**Heffem Academy Manager 0.9.14**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.14/Heffem-Academy-Manager-0.9.14-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.14/Heffem-Academy-Manager-0.9.14-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.14/Heffem-Academy-Manager-0.9.14-Mac.zip)
 <!-- /downloads:academy -->
 
 <!-- downloads:tirage -->
-**Heffem Nations Draw 0.6.7**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.7/Heffem-Nations-Draw-0.6.7-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.7/Heffem-Nations-Draw-0.6.7-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.7/Heffem-Nations-Draw-0.6.7-Mac.zip)
+**Heffem Nations Draw 0.6.8**: [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.8/Heffem-Nations-Draw-0.6.8-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.8/Heffem-Nations-Draw-0.6.8-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.8/Heffem-Nations-Draw-0.6.8-Mac.zip)
 <!-- /downloads:tirage -->
 <!-- /downloads-section -->
 
