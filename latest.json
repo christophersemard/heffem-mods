@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-16T19:27:14Z",
+  "published": "2026-11-16T19:45:26Z",
   "mods": {
     "academy": {
-      "version": "0.9.22",
+      "version": "0.9.23",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.22/HeffemAcademy.dll",
-      "sha256": "f79385c12d00dfb12bc31b86bb8ff371c704b324b4748aebeceb03aefbc59824",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.23/HeffemAcademy.dll",
+      "sha256": "7faaadef7eec6f49c446eaf3b0e5c18182f1e71673f796d9fe765ca04229209b",
       "size": 6320640,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Détections et observations sont séparées : observer tes repérés ne coûte plus de détection. L'avis du staff progresse par paliers, et un staff moyen peut se tromper. Observer, proposer une place ou faire un échange directement depuis les listes ; programmes et essais de poste réglables dans la liste. Fiche précédente / suivante, fil complet, comptes par saison, bilan du réseau par pays. Un changement du niveau de formation du pays se ressent plus vite. Améliorations d'interface et corrections.",
-      "messageEn": "Scouting trips and assessments are now separate: watching your scouted kids no longer uses up your scouting. The staff's view builds up in clear steps, and a weaker staff can get a kid wrong. Watch, offer a place or swap a kid straight from the lists; set programmes and position trials from the list. Previous/next on kid files, full academy feed, accounts by season, network country summary. Changes to your country's youth rating reach the academy faster. Interface improvements and bug fixes."
+      "messageFr": "Un changement du niveau de formation du pays (par exemple avec le Tirage des Nations) se ressent plus progressivement dans l'académie. Correction du mod qui restait en pause sur Game Pass avec certaines langues du jeu. Corrections.",
+      "messageEn": "Changes to your country's youth rating (for example from the Nations Draw) now reach the academy more gradually. Fix for the mod staying paused on Game Pass with some game languages. Bug fixes."
     },
     "tirage": {
       "version": "0.6.15",
