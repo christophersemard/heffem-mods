@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-16T21:56:44Z",
+  "published": "2026-11-16T22:25:03Z",
   "mods": {
     "academy": {
-      "version": "0.9.25",
+      "version": "0.9.26",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.25/HeffemAcademy.dll",
-      "sha256": "21f1d03a471ccb146376db209c5d3b61e6d14d6e1ff96c9911dfe36e5864565d",
-      "size": 6336000,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.26/HeffemAcademy.dll",
+      "sha256": "184a061f3713d7b0d152111db5dc8936935c6ec271ff962d9c8f1df5b0bafdd6",
+      "size": 6336512,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les parties en ligne fonctionnent avec les joueurs Game Pass. Correction pour rejoindre une partie en ligne après une partie solo. Bouton de rapport sur l'écran d'invité. L'Athletic Club et les Chivas suivent la politique d'origine de leur club. Installateur : correction d'un plantage sur certains PC. Corrections.",
-      "messageEn": "Online games now work with Game Pass players. Fix for joining an online game after playing a solo save. A report button on the guest screen. Athletic Club and Chivas now follow their club's origin policy. Installer: fix for a crash on some PCs. Bug fixes."
+      "messageFr": "Correction des invités Game Pass qui restaient en pause en partie en ligne. Les jeunes de l'Athletic Club ont aussi la nationalité basque. Corrections.",
+      "messageEn": "Fix for guests on Game Pass staying paused in online games. Athletic Club kids now also get Basque nationality. Bug fixes."
     },
     "tirage": {
-      "version": "0.6.16",
+      "version": "0.6.17",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.16/HeffemTirage.dll",
-      "sha256": "d571e7080cf55fef57aae5e59e4ca4da4b283b1fbe2c67e5372eff5d555c2531",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.17/HeffemTirage.dll",
+      "sha256": "d88e099330398931a828ea7854460f19ca51f602fb8a5ae1a3fae4873ffbcdff",
       "size": 2443264,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les parties en ligne fonctionnent avec les joueurs Game Pass. Corrections.",
-      "messageEn": "Online games now work with Game Pass players. Bug fixes."
+      "messageFr": "Correction des invités Game Pass qui restaient en pause en partie en ligne.",
+      "messageEn": "Fix for guests on Game Pass staying paused in online games."
     }
   }
 }
