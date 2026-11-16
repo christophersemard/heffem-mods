@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-15T23:56:18Z",
+  "published": "2026-11-16T00:44:12Z",
   "mods": {
     "academy": {
-      "version": "0.9.16",
+      "version": "0.9.17",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.16/HeffemAcademy.dll",
-      "sha256": "8cc1ce75413b3665c2c3008f72e008a358c1d25e066faee0da98622646a7dd7f",
-      "size": 5666816,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.17/HeffemAcademy.dll",
+      "sha256": "6e2f2d48dcc2dcecb7e5540243a4cbe054ba1bf9fd6e6ab64b4b00e01256f552",
+      "size": 5710848,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Prise en charge de l'Eskelie, un nouveau pays bientôt sur FMScout : noms des jeunes, origines et carte.",
-      "messageEn": "Support for Eskelie, a new country coming soon on FMScout: youth names, origins and map."
+      "messageFr": "Nouvelles colonnes dans la liste : programme individuel, entraînement et passes décisives. Rapport et sauvegarde des données depuis les Options du mod. Aide plus claire quand les versions diffèrent en ligne. Traductions complétées.",
+      "messageEn": "New list columns: individual programme, training and assists. Create a report and back up your data from the mod's Options. Clearer help when online versions differ. Translation fixes."
     },
     "tirage": {
-      "version": "0.6.10",
+      "version": "0.6.11",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.10/HeffemTirage.dll",
-      "sha256": "fb3ce9d0c3f13bd9a45ded537bea3d1dce89d3283325b3a04150c4d21598e908",
-      "size": 2278912,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.11/HeffemTirage.dll",
+      "sha256": "38d4ce058a32a27a706889911d1e1021694e0f1ea3800feb2df2542d1d359230",
+      "size": 2323968,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Prise en charge de l'Eskelie, un nouveau pays bientôt sur FMScout : drapeau, Europe et coefficient UEFA. Les championnats des bases personnalisées sont maintenant détectés. Correctifs.",
-      "messageEn": "Support for Eskelie, a new country coming soon on FMScout: flag, Europe and UEFA coefficient. Leagues from custom databases are now detected. Bug fixes."
+      "messageFr": "Rapport et sauvegarde des données depuis les Options du mod. Aide plus claire quand les versions diffèrent en ligne. Traductions complétées.",
+      "messageEn": "Create a report and back up your data from the mod's Options. Clearer help when online versions differ. Translation fixes."
     }
   }
 }
