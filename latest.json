@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-16T22:25:03Z",
+  "published": "2026-11-16T22:39:53Z",
   "mods": {
     "academy": {
-      "version": "0.9.26",
+      "version": "0.9.27",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.26/HeffemAcademy.dll",
-      "sha256": "184a061f3713d7b0d152111db5dc8936935c6ec271ff962d9c8f1df5b0bafdd6",
-      "size": 6336512,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.27/HeffemAcademy.dll",
+      "sha256": "368d648cca9f0687766c5bcedd53fdfc1786e8e3324a2a64047e04cb328a4dc4",
+      "size": 6337024,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Correction des invités Game Pass qui restaient en pause en partie en ligne. Les jeunes de l'Athletic Club ont aussi la nationalité basque. Corrections.",
-      "messageEn": "Fix for guests on Game Pass staying paused in online games. Athletic Club kids now also get Basque nationality. Bug fixes."
+      "messageFr": "Parties en ligne sur Game Pass : l'invité se connecte maintenant à l'hôte et retrouve son académie. Corrections.",
+      "messageEn": "Online games on Game Pass: the guest now connects to the host and gets their academy. Bug fixes."
     },
     "tirage": {
       "version": "0.6.17",
