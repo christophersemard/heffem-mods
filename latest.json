@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-16T19:56:56Z",
+  "published": "2026-11-16T21:56:44Z",
   "mods": {
     "academy": {
-      "version": "0.9.24",
+      "version": "0.9.25",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.24/HeffemAcademy.dll",
-      "sha256": "5defb5ad4fca9a9b5d64da53e96f73bb4d7e90fb6add1ecadf98c339c32126d0",
-      "size": 6324224,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.25/HeffemAcademy.dll",
+      "sha256": "21f1d03a471ccb146376db209c5d3b61e6d14d6e1ff96c9911dfe36e5864565d",
+      "size": 6336000,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Correction des améliorations, prospections et autres achats sans effet sur certaines installations Mac et Game Pass. Le mod prévient désormais s'il passe en lecture seule. Corrections.",
-      "messageEn": "Fix for upgrades, scouting trips abroad and other purchases doing nothing on some Mac and Game Pass setups. The mod now tells you if it ever runs read-only. Bug fixes."
+      "messageFr": "Les parties en ligne fonctionnent avec les joueurs Game Pass. Correction pour rejoindre une partie en ligne après une partie solo. Bouton de rapport sur l'écran d'invité. L'Athletic Club et les Chivas suivent la politique d'origine de leur club. Installateur : correction d'un plantage sur certains PC. Corrections.",
+      "messageEn": "Online games now work with Game Pass players. Fix for joining an online game after playing a solo save. A report button on the guest screen. Athletic Club and Chivas now follow their club's origin policy. Installer: fix for a crash on some PCs. Bug fixes."
     },
     "tirage": {
-      "version": "0.6.15",
+      "version": "0.6.16",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.15/HeffemTirage.dll",
-      "sha256": "d782a6eb4de14a6500d28b41bd440f61306409194b0227b46d06a47d3ddda77f",
-      "size": 2442752,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.16/HeffemTirage.dll",
+      "sha256": "d571e7080cf55fef57aae5e59e4ca4da4b283b1fbe2c67e5372eff5d555c2531",
+      "size": 2443264,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les années sans tirage apparaissent dans l'historique. Recherche dans l'historique et pays cliquables. Pays de la courbe au choix. Onglets par continent dans la liste perso. L'annulation marche aussi après un rechargement le même jour. Corrections.",
-      "messageEn": "Skipped years now show in the history. History search and clickable countries. Choose the countries on the evolution chart. Region tabs in the custom country list. Undo still works after reloading the same day. Bug fixes."
+      "messageFr": "Les parties en ligne fonctionnent avec les joueurs Game Pass. Corrections.",
+      "messageEn": "Online games now work with Game Pass players. Bug fixes."
     }
   }
 }
