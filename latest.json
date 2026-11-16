@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-16T09:41:32Z",
+  "published": "2026-11-16T13:32:54Z",
   "mods": {
     "academy": {
-      "version": "0.9.18",
+      "version": "0.9.19",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.18/HeffemAcademy.dll",
-      "sha256": "06e29691cc9c13e651f6b5f9428996994648702528e2eca05fb799af96b68763",
-      "size": 5715968,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.19/HeffemAcademy.dll",
+      "sha256": "6bb1a111d1fc4d3ee94dee02d566723d919ce0d47bace5c013b26912cb16edb7",
+      "size": 5943808,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Le mod ne reste plus en pause dans une partie très avancée dans le temps ou un jeu en chinois. Les grands clubs tirent un peu plus de leur académie. Corrections.",
-      "messageEn": "The mod no longer stays paused in saves set far in the future or in a game played in Chinese. Big clubs get a bit more from their academy. Bug fixes."
+      "messageFr": "Choisis d'utiliser le mod partie par partie : il demande pour une nouvelle partie, et tu peux le couper dans une partie depuis ses options. Traduction vietnamienne. Rapport et sauvegarde plus faciles à retrouver. Corrections.",
+      "messageEn": "Choose whether to use the mod in each save: it asks for new saves, and you can turn it off in a save from the options. Vietnamese translation. Easier to find your report and backup files. Bug fixes."
     },
     "tirage": {
-      "version": "0.6.12",
+      "version": "0.6.13",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.12/HeffemTirage.dll",
-      "sha256": "d4c14a6a4af1bebda3d33c3a4704dfd960c7a7647243e2f52feae2afb4de4249",
-      "size": 2329600,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.13/HeffemTirage.dll",
+      "sha256": "d8d4598a9343345a3ba2f2fc688afdc9ebb75a26058f31c79472ee9742dd41e0",
+      "size": 2364928,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrections pour les jeux en chinois. Corrections diverses.",
-      "messageEn": "Fixes for games played in Chinese. Bug fixes."
+      "messageFr": "Football féminin : tirage des hommes, des femmes ou des deux, avec deux tirages séparés, chacun avec sa liste de pays et ses championnats. Choisis d'utiliser le mod partie par partie. Rapport et sauvegarde plus faciles à retrouver. Corrections.",
+      "messageEn": "Women's football: draw for men, women or both, with two separate draws, each with its own country list and leagues. Choose whether to use the mod in each save. Easier to find your report and backup files. Bug fixes."
     }
   }
 }
