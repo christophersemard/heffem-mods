@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-16T13:53:27Z",
+  "published": "2026-11-16T15:08:18Z",
   "mods": {
     "academy": {
-      "version": "0.9.20",
+      "version": "0.9.21",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.20/HeffemAcademy.dll",
-      "sha256": "6882e73ba45804d655839575eb38fc21d5446f2cd253c6ad5234735960ce4f47",
-      "size": 5944320,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.21/HeffemAcademy.dll",
+      "sha256": "01e75300d6863e193e86042ead03fba9fd8b7afd0a121c65068730b4c55b77f1",
+      "size": 6187520,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les événements rares de l'académie ne reviennent plus trop souvent, et un enfant n'a plus deux fois le même événement dans l'année. Corrections.",
-      "messageEn": "Rare academy events no longer come back too often, and a kid won't get the same event twice in a year. Bug fixes."
+      "messageFr": "Traduction coréenne. Nouvelle option pour masquer le bouton Heffem à droite. Correction des mods qui ne se chargeaient pas quand le jeu se relance tout seul. Corrections.",
+      "messageEn": "Korean translation. New option to hide the Heffem button on the right. Fix for the mods not loading after the game restarts itself. Bug fixes."
     },
     "tirage": {
-      "version": "0.6.13",
+      "version": "0.6.14",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.13/HeffemTirage.dll",
-      "sha256": "d8d4598a9343345a3ba2f2fc688afdc9ebb75a26058f31c79472ee9742dd41e0",
-      "size": 2364928,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.14/HeffemTirage.dll",
+      "sha256": "24a720e8903926c6b513cd0d1c6a6fd3e818ca00db2a9e9440f96fa260715fe2",
+      "size": 2408448,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Football féminin : tirage des hommes, des femmes ou des deux, avec deux tirages séparés, chacun avec sa liste de pays et ses championnats. Choisis d'utiliser le mod partie par partie. Rapport et sauvegarde plus faciles à retrouver. Corrections.",
-      "messageEn": "Women's football: draw for men, women or both, with two separate draws, each with its own country list and leagues. Choose whether to use the mod in each save. Easier to find your report and backup files. Bug fixes."
+      "messageFr": "Traduction vietnamienne. Nouvelle option pour masquer le bouton Heffem à droite. Correction des mods qui ne se chargeaient pas quand le jeu se relance tout seul. Corrections.",
+      "messageEn": "Vietnamese translation. New option to hide the Heffem button on the right. Fix for the mods not loading after the game restarts itself. Bug fixes."
     }
   }
 }
