@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-16T00:44:12Z",
+  "published": "2026-11-16T09:41:32Z",
   "mods": {
     "academy": {
-      "version": "0.9.17",
+      "version": "0.9.18",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.17/HeffemAcademy.dll",
-      "sha256": "6e2f2d48dcc2dcecb7e5540243a4cbe054ba1bf9fd6e6ab64b4b00e01256f552",
-      "size": 5710848,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.18/HeffemAcademy.dll",
+      "sha256": "06e29691cc9c13e651f6b5f9428996994648702528e2eca05fb799af96b68763",
+      "size": 5715968,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouvelles colonnes dans la liste : programme individuel, entraînement et passes décisives. Rapport et sauvegarde des données depuis les Options du mod. Aide plus claire quand les versions diffèrent en ligne. Traductions complétées.",
-      "messageEn": "New list columns: individual programme, training and assists. Create a report and back up your data from the mod's Options. Clearer help when online versions differ. Translation fixes."
+      "messageFr": "Le mod ne reste plus en pause dans une partie très avancée dans le temps ou un jeu en chinois. Les grands clubs tirent un peu plus de leur académie. Corrections.",
+      "messageEn": "The mod no longer stays paused in saves set far in the future or in a game played in Chinese. Big clubs get a bit more from their academy. Bug fixes."
     },
     "tirage": {
-      "version": "0.6.11",
+      "version": "0.6.12",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.11/HeffemTirage.dll",
-      "sha256": "38d4ce058a32a27a706889911d1e1021694e0f1ea3800feb2df2542d1d359230",
-      "size": 2323968,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.12/HeffemTirage.dll",
+      "sha256": "d4c14a6a4af1bebda3d33c3a4704dfd960c7a7647243e2f52feae2afb4de4249",
+      "size": 2329600,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Rapport et sauvegarde des données depuis les Options du mod. Aide plus claire quand les versions diffèrent en ligne. Traductions complétées.",
-      "messageEn": "Create a report and back up your data from the mod's Options. Clearer help when online versions differ. Translation fixes."
+      "messageFr": "Corrections pour les jeux en chinois. Corrections diverses.",
+      "messageEn": "Fixes for games played in Chinese. Bug fixes."
     }
   }
 }
