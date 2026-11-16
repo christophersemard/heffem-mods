@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-16T19:45:26Z",
+  "published": "2026-11-16T19:56:56Z",
   "mods": {
     "academy": {
-      "version": "0.9.23",
+      "version": "0.9.24",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.23/HeffemAcademy.dll",
-      "sha256": "7faaadef7eec6f49c446eaf3b0e5c18182f1e71673f796d9fe765ca04229209b",
-      "size": 6320640,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.24/HeffemAcademy.dll",
+      "sha256": "5defb5ad4fca9a9b5d64da53e96f73bb4d7e90fb6add1ecadf98c339c32126d0",
+      "size": 6324224,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Un changement du niveau de formation du pays (par exemple avec le Tirage des Nations) se ressent plus progressivement dans l'académie. Correction du mod qui restait en pause sur Game Pass avec certaines langues du jeu. Corrections.",
-      "messageEn": "Changes to your country's youth rating (for example from the Nations Draw) now reach the academy more gradually. Fix for the mod staying paused on Game Pass with some game languages. Bug fixes."
+      "messageFr": "Correction des améliorations, prospections et autres achats sans effet sur certaines installations Mac et Game Pass. Le mod prévient désormais s'il passe en lecture seule. Corrections.",
+      "messageEn": "Fix for upgrades, scouting trips abroad and other purchases doing nothing on some Mac and Game Pass setups. The mod now tells you if it ever runs read-only. Bug fixes."
     },
     "tirage": {
       "version": "0.6.15",
