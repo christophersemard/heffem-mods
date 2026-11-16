@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-16T13:32:54Z",
+  "published": "2026-11-16T13:53:27Z",
   "mods": {
     "academy": {
-      "version": "0.9.19",
+      "version": "0.9.20",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.19/HeffemAcademy.dll",
-      "sha256": "6bb1a111d1fc4d3ee94dee02d566723d919ce0d47bace5c013b26912cb16edb7",
-      "size": 5943808,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.20/HeffemAcademy.dll",
+      "sha256": "6882e73ba45804d655839575eb38fc21d5446f2cd253c6ad5234735960ce4f47",
+      "size": 5944320,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Choisis d'utiliser le mod partie par partie : il demande pour une nouvelle partie, et tu peux le couper dans une partie depuis ses options. Traduction vietnamienne. Rapport et sauvegarde plus faciles à retrouver. Corrections.",
-      "messageEn": "Choose whether to use the mod in each save: it asks for new saves, and you can turn it off in a save from the options. Vietnamese translation. Easier to find your report and backup files. Bug fixes."
+      "messageFr": "Les événements rares de l'académie ne reviennent plus trop souvent, et un enfant n'a plus deux fois le même événement dans l'année. Corrections.",
+      "messageEn": "Rare academy events no longer come back too often, and a kid won't get the same event twice in a year. Bug fixes."
     },
     "tirage": {
       "version": "0.6.13",
