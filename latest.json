@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-16T15:08:18Z",
+  "published": "2026-11-16T19:27:14Z",
   "mods": {
     "academy": {
-      "version": "0.9.21",
+      "version": "0.9.22",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.21/HeffemAcademy.dll",
-      "sha256": "01e75300d6863e193e86042ead03fba9fd8b7afd0a121c65068730b4c55b77f1",
-      "size": 6187520,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.22/HeffemAcademy.dll",
+      "sha256": "f79385c12d00dfb12bc31b86bb8ff371c704b324b4748aebeceb03aefbc59824",
+      "size": 6320640,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Traduction coréenne. Nouvelle option pour masquer le bouton Heffem à droite. Correction des mods qui ne se chargeaient pas quand le jeu se relance tout seul. Corrections.",
-      "messageEn": "Korean translation. New option to hide the Heffem button on the right. Fix for the mods not loading after the game restarts itself. Bug fixes."
+      "messageFr": "Détections et observations sont séparées : observer tes repérés ne coûte plus de détection. L'avis du staff progresse par paliers, et un staff moyen peut se tromper. Observer, proposer une place ou faire un échange directement depuis les listes ; programmes et essais de poste réglables dans la liste. Fiche précédente / suivante, fil complet, comptes par saison, bilan du réseau par pays. Un changement du niveau de formation du pays se ressent plus vite. Améliorations d'interface et corrections.",
+      "messageEn": "Scouting trips and assessments are now separate: watching your scouted kids no longer uses up your scouting. The staff's view builds up in clear steps, and a weaker staff can get a kid wrong. Watch, offer a place or swap a kid straight from the lists; set programmes and position trials from the list. Previous/next on kid files, full academy feed, accounts by season, network country summary. Changes to your country's youth rating reach the academy faster. Interface improvements and bug fixes."
     },
     "tirage": {
-      "version": "0.6.14",
+      "version": "0.6.15",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.14/HeffemTirage.dll",
-      "sha256": "24a720e8903926c6b513cd0d1c6a6fd3e818ca00db2a9e9440f96fa260715fe2",
-      "size": 2408448,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.15/HeffemTirage.dll",
+      "sha256": "d782a6eb4de14a6500d28b41bd440f61306409194b0227b46d06a47d3ddda77f",
+      "size": 2442752,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Traduction vietnamienne. Nouvelle option pour masquer le bouton Heffem à droite. Correction des mods qui ne se chargeaient pas quand le jeu se relance tout seul. Corrections.",
-      "messageEn": "Vietnamese translation. New option to hide the Heffem button on the right. Fix for the mods not loading after the game restarts itself. Bug fixes."
+      "messageFr": "Les années sans tirage apparaissent dans l'historique. Recherche dans l'historique et pays cliquables. Pays de la courbe au choix. Onglets par continent dans la liste perso. L'annulation marche aussi après un rechargement le même jour. Corrections.",
+      "messageEn": "Skipped years now show in the history. History search and clickable countries. Choose the countries on the evolution chart. Region tabs in the custom country list. Undo still works after reloading the same day. Bug fixes."
     }
   }
 }

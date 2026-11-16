@@ -11,11 +11,11 @@ This repository holds the **published files** of the Heffem mods for Football Ma
 Latest packages of each mod. These links never change: share them as they are. / Derniers paquets de chaque mod. Ces liens ne changent jamais : partage-les tels quels.
 
 <!-- downloads:academy -->
-**Heffem Academy Manager** (0.9.21): [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/academy-latest/Heffem-Academy-Manager-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/academy-latest/Heffem-Academy-Manager-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/academy-latest/Heffem-Academy-Manager-Mac.zip)
+**Heffem Academy Manager** (0.9.22): [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/academy-latest/Heffem-Academy-Manager-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/academy-latest/Heffem-Academy-Manager-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/academy-latest/Heffem-Academy-Manager-Mac.zip)
 <!-- /downloads:academy -->
 
 <!-- downloads:tirage -->
-**Heffem Nations Draw** (0.6.14): [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Mac.zip)
+**Heffem Nations Draw** (0.6.15): [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Mac.zip)
 <!-- /downloads:tirage -->
 <!-- /downloads-section -->
 
