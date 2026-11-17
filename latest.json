@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-17T18:04:53Z",
+  "published": "2026-11-17T19:02:19Z",
   "mods": {
     "academy": {
-      "version": "0.9.33",
+      "version": "0.9.34",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.33/HeffemAcademy.dll",
-      "sha256": "cbee5318072e5a4c1c4108ba03386998b4ab4a91e55cfd7ed0ceb401c1e2979f",
-      "size": 6388224,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.34/HeffemAcademy.dll",
+      "sha256": "ad27e5014657b8dd3f3ffebc520b4aaab6ab5f843356fb88b902100b6d8262b3",
+      "size": 6388736,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Le mod compare maintenant la date du jeu à celle affichée en haut de l'écran, et se met en pause plutôt que d'utiliser une date fausse. Game Pass sur FM 27.1 : date corrigée, et les dates de l'académie parties dans le futur sont remises en place. Mac sur FM 27.1 : le mod ne reste plus en pause. Les clubs créés ou modifiés dans l'éditeur ne mettent plus le mod en pause.",
-      "messageEn": "The mod now checks the game date against the one shown at the top of the screen, and pauses instead of using a wrong date. Game Pass on FM 27.1: date fixed, and academy dates that ended up in the future are put back. Mac on FM 27.1: the mod no longer stays paused. Clubs created or edited in the editor no longer pause the mod."
+      "messageFr": "Les parties reprises d'un ancien FM (dates avant 2026) fonctionnent à nouveau.",
+      "messageEn": "Saves carried over from an older FM (dates before 2026) work again."
     },
     "tirage": {
-      "version": "0.6.22",
+      "version": "0.6.23",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.22/HeffemTirage.dll",
-      "sha256": "376d46e818eeaf65d7f75d66c7795a7972a0b48bb790a527081aa3ad03c72c47",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.23/HeffemTirage.dll",
+      "sha256": "ceac886261fff103c3669b834e1d47ab54fa1f2d080662433630717a269d5f57",
       "size": 2465792,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Le mod compare maintenant la date du jeu à celle affichée en haut de l'écran, et se met en pause plutôt que d'utiliser une date fausse (Game Pass sur FM 27.1 corrigé).",
-      "messageEn": "The mod now checks the game date against the one shown at the top of the screen, and pauses instead of using a wrong date (Game Pass on FM 27.1 fixed)."
+      "messageFr": "Les parties reprises d'un ancien FM (dates avant 2026) fonctionnent à nouveau.",
+      "messageEn": "Saves carried over from an older FM (dates before 2026) work again."
     }
   }
 }
