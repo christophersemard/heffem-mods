@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-17T17:38:23Z",
+  "published": "2026-11-17T18:04:53Z",
   "mods": {
     "academy": {
-      "version": "0.9.32",
+      "version": "0.9.33",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.32/HeffemAcademy.dll",
-      "sha256": "8e2b6ac95469df39b829fa2acbce82ea639e5731da0d39235a45bfe99134738d",
-      "size": 6380032,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.33/HeffemAcademy.dll",
+      "sha256": "cbee5318072e5a4c1c4108ba03386998b4ab4a91e55cfd7ed0ceb401c1e2979f",
+      "size": 6388224,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "FM 27.1 : corrigé, la date du jeu parfois mal lue (Steam et Mac) et « Pas de club » sur Mac. Les dates de l'académie reculées par erreur sont rétablies toutes seules.",
-      "messageEn": "FM 27.1: fixed the in-game date sometimes being read wrong (Steam and Mac) and \"No club\" on Mac. Academy dates that were moved back by mistake are restored automatically."
+      "messageFr": "Le mod compare maintenant la date du jeu à celle affichée en haut de l'écran, et se met en pause plutôt que d'utiliser une date fausse. Game Pass sur FM 27.1 : date corrigée, et les dates de l'académie parties dans le futur sont remises en place. Mac sur FM 27.1 : le mod ne reste plus en pause. Les clubs créés ou modifiés dans l'éditeur ne mettent plus le mod en pause.",
+      "messageEn": "The mod now checks the game date against the one shown at the top of the screen, and pauses instead of using a wrong date. Game Pass on FM 27.1: date fixed, and academy dates that ended up in the future are put back. Mac on FM 27.1: the mod no longer stays paused. Clubs created or edited in the editor no longer pause the mod."
     },
     "tirage": {
-      "version": "0.6.21",
+      "version": "0.6.22",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.21/HeffemTirage.dll",
-      "sha256": "ba0273e15b5157c4316fba591fc163235d8249c027e4feb7cd833480ab0963e5",
-      "size": 2461184,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.22/HeffemTirage.dll",
+      "sha256": "376d46e818eeaf65d7f75d66c7795a7972a0b48bb790a527081aa3ad03c72c47",
+      "size": 2465792,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "FM 27.1 : corrigé, la date du jeu parfois mal lue (mauvaise année de tirage).",
-      "messageEn": "FM 27.1: fixed the in-game date sometimes being read wrong (wrong draw year)."
+      "messageFr": "Le mod compare maintenant la date du jeu à celle affichée en haut de l'écran, et se met en pause plutôt que d'utiliser une date fausse (Game Pass sur FM 27.1 corrigé).",
+      "messageEn": "The mod now checks the game date against the one shown at the top of the screen, and pauses instead of using a wrong date (Game Pass on FM 27.1 fixed)."
     }
   }
 }
