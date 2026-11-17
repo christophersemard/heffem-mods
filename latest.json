@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-17T19:29:08Z",
+  "published": "2026-11-17T21:12:02Z",
   "mods": {
     "academy": {
-      "version": "0.9.35",
+      "version": "0.9.36",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.35/HeffemAcademy.dll",
-      "sha256": "941a74953af2d67a35923ab308bc525bc2e00b5b97548cbf4a46bc26a1644f8d",
-      "size": 6389760,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.36/HeffemAcademy.dll",
+      "sha256": "f753ee29d38a3a57f5237410b32b950d0123a1781f6635edc54891cecd30121a",
+      "size": 6390272,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les clubs féminins ne mettent plus le mod en lecture seule sur FM 27.1. Les académies partenaires comptent davantage : les enfants qu'elles présentent sont rarement disputés, et ceux des petits pays de football sont plus enclins à venir. Moins d'enfants sont suivis par trois clubs rivaux.",
-      "messageEn": "Women's clubs no longer switch the mod to read-only on FM 27.1. Partner academies matter more: the kids they present are rarely chased by other clubs, and kids from smaller football countries are keener to join. Fewer kids are followed by three rival clubs."
+      "messageFr": "Corrigé : depuis la 0.9.33, le mod passait parfois en lecture seule (puis en pause) au chargement d'une partie. Les matchs à sept buts comptent maintenant dans les statistiques de saison. Mac : étapes d'installation pour macOS 15 et plus.",
+      "messageEn": "Fixed the mod sometimes going read-only (then paused) when loading a save since 0.9.33. Seven-goal games now count in the kid's season stats. Mac: install steps for macOS 15 and later."
     },
     "tirage": {
       "version": "0.6.23",
