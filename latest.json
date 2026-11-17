@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-17T09:37:42Z",
+  "published": "2026-11-17T11:32:12Z",
   "mods": {
     "academy": {
-      "version": "0.9.28",
+      "version": "0.9.29",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.28/HeffemAcademy.dll",
-      "sha256": "46a017844a0642c01f82ab90898e014571a004c1b199aedbdcad62f77fd82a65",
-      "size": 6365696,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.29/HeffemAcademy.dll",
+      "sha256": "cfe88ce0c8a26751887a9b21bf3fa32e9afef9eb6ada1e9f099834237c7ae649",
+      "size": 6366720,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouvelle page « Nouveautés » dans les Options avec les notes de toutes les versions, et après une mise à jour tu vois tout ce qui a changé depuis ta version précédente. Les événements montrent ce qu'ils changent : argent, prestige de l'académie, moral. Les gains des événements dépendent de la taille du club, et les grosses offres de l'étranger ne visent que tes meilleurs espoirs. Les enfants partis dans un autre club y poursuivent leur carrière. Mac : correction du mod qui devenait invisible après le premier lancement. Corrections.",
-      "messageEn": "New \"What's new\" page in Options with the notes of every version, and after an update you now see everything new since your previous version. Events now show what they change: money, academy prestige, morale. Event earnings now depend on your club's size, and big offers from abroad only target your best prospects. Kids who leave for another club now carry on their career there. Mac: fix for the mod becoming invisible after the first launch. Bug fixes."
+      "messageFr": "Un club qui domine son pays attire maintenant de meilleurs enfants de tout le pays, même sans grande réputation internationale. Mac : nouveau lanceur « Play FM27 with mods » sur le Bureau, pour quand Steam refuse de lancer le jeu avec l'option de lancement (macOS récent).",
+      "messageEn": "Clubs that dominate their country now attract better kids from all over it, even before they have a big international name. Mac: new \"Play FM27 with mods\" launcher on your Desktop, for when Steam won't start the game with the launch option (recent macOS)."
     },
     "tirage": {
       "version": "0.6.18",
