@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-16T22:39:53Z",
+  "published": "2026-11-17T09:37:42Z",
   "mods": {
     "academy": {
-      "version": "0.9.27",
+      "version": "0.9.28",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.27/HeffemAcademy.dll",
-      "sha256": "368d648cca9f0687766c5bcedd53fdfc1786e8e3324a2a64047e04cb328a4dc4",
-      "size": 6337024,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.28/HeffemAcademy.dll",
+      "sha256": "46a017844a0642c01f82ab90898e014571a004c1b199aedbdcad62f77fd82a65",
+      "size": 6365696,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Parties en ligne sur Game Pass : l'invité se connecte maintenant à l'hôte et retrouve son académie. Corrections.",
-      "messageEn": "Online games on Game Pass: the guest now connects to the host and gets their academy. Bug fixes."
+      "messageFr": "Nouvelle page « Nouveautés » dans les Options avec les notes de toutes les versions, et après une mise à jour tu vois tout ce qui a changé depuis ta version précédente. Les événements montrent ce qu'ils changent : argent, prestige de l'académie, moral. Les gains des événements dépendent de la taille du club, et les grosses offres de l'étranger ne visent que tes meilleurs espoirs. Les enfants partis dans un autre club y poursuivent leur carrière. Mac : correction du mod qui devenait invisible après le premier lancement. Corrections.",
+      "messageEn": "New \"What's new\" page in Options with the notes of every version, and after an update you now see everything new since your previous version. Events now show what they change: money, academy prestige, morale. Event earnings now depend on your club's size, and big offers from abroad only target your best prospects. Kids who leave for another club now carry on their career there. Mac: fix for the mod becoming invisible after the first launch. Bug fixes."
     },
     "tirage": {
-      "version": "0.6.17",
+      "version": "0.6.18",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.17/HeffemTirage.dll",
-      "sha256": "d88e099330398931a828ea7854460f19ca51f602fb8a5ae1a3fae4873ffbcdff",
-      "size": 2443264,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.18/HeffemTirage.dll",
+      "sha256": "afc297499a6e841709dad0be78d5eec6c9d44b707469c263833c5b781fe77dbc",
+      "size": 2457088,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Correction des invités Game Pass qui restaient en pause en partie en ligne.",
-      "messageEn": "Fix for guests on Game Pass staying paused in online games."
+      "messageFr": "Nouvelle page « Nouveautés » dans les Options avec les notes de toutes les versions. Corrections.",
+      "messageEn": "New \"What's new\" page in Options with the notes of every version. Bug fixes."
     }
   }
 }
