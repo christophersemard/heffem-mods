@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-17T15:05:57Z",
+  "published": "2026-11-17T15:47:12Z",
   "mods": {
     "academy": {
-      "version": "0.9.30",
+      "version": "0.9.31",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.30/HeffemAcademy.dll",
-      "sha256": "40b50d9bc70af26e41076d141809ab9ad08058e09f5dcda551f9f068e655ca27",
-      "size": 6373888,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.31/HeffemAcademy.dll",
+      "sha256": "81383cd6ea12db0d983146fbc50eace8107c88a6cc08e6d3f562e7301046cc13",
+      "size": 6376448,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les jeunes cachés après un ancien souci de date sur Game Pass reviennent tout seuls. Arrivée des jeunes plus sûre. Les barres de défilement se prennent et se glissent partout. Menu d'accueil : la barre des mods n'écrase plus les boutons du jeu (FM 27.1), et plus de faux « incompatible ».",
-      "messageEn": "Kids hidden after an old Game Pass date issue come back automatically. Safer youth intake. Scrollbars can now be dragged everywhere. Main menu: the mods bar no longer squeezes the game's buttons (FM 27.1), and no more false \"incompatible\" warning."
+      "messageFr": "Parties en ligne sur FM 27.1 : le mod remarche pour les joueurs qui rejoignent un hôte. La monnaie de votre club s'affiche à nouveau correctement. Corrigé : le mod qui restait en pause dans certaines parties.",
+      "messageEn": "Online games on FM 27.1: the mod works again for players who join a host. Your club's currency is shown correctly again. Fixed the mod staying paused in some saves."
     },
     "tirage": {
-      "version": "0.6.19",
+      "version": "0.6.20",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.19/HeffemTirage.dll",
-      "sha256": "0861b523ef54070287864c85a532cc30cdc8f91a67109830927a552d8c188c39",
-      "size": 2459136,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.20/HeffemTirage.dll",
+      "sha256": "040b6a46afe4f98ac6da6508b543c8c2264b1054bd5b7a81a48d51f35c01254c",
+      "size": 2460672,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les barres de défilement se prennent et se glissent partout. Menu d'accueil : la barre des mods n'écrase plus les boutons du jeu (FM 27.1) ; un clic sur « F8 Tirage » ouvre la présentation. Plus de faux « incompatible ».",
-      "messageEn": "Scrollbars can now be dragged everywhere. Main menu: the mods bar no longer squeezes the game's buttons (FM 27.1); click \"F8 Draw\" to open the presentation. No more false \"incompatible\" warning."
+      "messageFr": "Parties en ligne sur FM 27.1 : le mod remarche pour les joueurs qui rejoignent un hôte.",
+      "messageEn": "Online games on FM 27.1: the mod works again for players who join a host."
     }
   }
 }
