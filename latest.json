@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-17T19:02:19Z",
+  "published": "2026-11-17T19:29:08Z",
   "mods": {
     "academy": {
-      "version": "0.9.34",
+      "version": "0.9.35",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.34/HeffemAcademy.dll",
-      "sha256": "ad27e5014657b8dd3f3ffebc520b4aaab6ab5f843356fb88b902100b6d8262b3",
-      "size": 6388736,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.35/HeffemAcademy.dll",
+      "sha256": "941a74953af2d67a35923ab308bc525bc2e00b5b97548cbf4a46bc26a1644f8d",
+      "size": 6389760,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les parties reprises d'un ancien FM (dates avant 2026) fonctionnent à nouveau.",
-      "messageEn": "Saves carried over from an older FM (dates before 2026) work again."
+      "messageFr": "Les clubs féminins ne mettent plus le mod en lecture seule sur FM 27.1. Les académies partenaires comptent davantage : les enfants qu'elles présentent sont rarement disputés, et ceux des petits pays de football sont plus enclins à venir. Moins d'enfants sont suivis par trois clubs rivaux.",
+      "messageEn": "Women's clubs no longer switch the mod to read-only on FM 27.1. Partner academies matter more: the kids they present are rarely chased by other clubs, and kids from smaller football countries are keener to join. Fewer kids are followed by three rival clubs."
     },
     "tirage": {
       "version": "0.6.23",
