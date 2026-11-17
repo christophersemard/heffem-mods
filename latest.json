@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-17T11:32:12Z",
+  "published": "2026-11-17T15:05:57Z",
   "mods": {
     "academy": {
-      "version": "0.9.29",
+      "version": "0.9.30",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.29/HeffemAcademy.dll",
-      "sha256": "cfe88ce0c8a26751887a9b21bf3fa32e9afef9eb6ada1e9f099834237c7ae649",
-      "size": 6366720,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.30/HeffemAcademy.dll",
+      "sha256": "40b50d9bc70af26e41076d141809ab9ad08058e09f5dcda551f9f068e655ca27",
+      "size": 6373888,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Un club qui domine son pays attire maintenant de meilleurs enfants de tout le pays, même sans grande réputation internationale. Mac : nouveau lanceur « Play FM27 with mods » sur le Bureau, pour quand Steam refuse de lancer le jeu avec l'option de lancement (macOS récent).",
-      "messageEn": "Clubs that dominate their country now attract better kids from all over it, even before they have a big international name. Mac: new \"Play FM27 with mods\" launcher on your Desktop, for when Steam won't start the game with the launch option (recent macOS)."
+      "messageFr": "Les jeunes cachés après un ancien souci de date sur Game Pass reviennent tout seuls. Arrivée des jeunes plus sûre. Les barres de défilement se prennent et se glissent partout. Menu d'accueil : la barre des mods n'écrase plus les boutons du jeu (FM 27.1), et plus de faux « incompatible ».",
+      "messageEn": "Kids hidden after an old Game Pass date issue come back automatically. Safer youth intake. Scrollbars can now be dragged everywhere. Main menu: the mods bar no longer squeezes the game's buttons (FM 27.1), and no more false \"incompatible\" warning."
     },
     "tirage": {
-      "version": "0.6.18",
+      "version": "0.6.19",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.18/HeffemTirage.dll",
-      "sha256": "afc297499a6e841709dad0be78d5eec6c9d44b707469c263833c5b781fe77dbc",
-      "size": 2457088,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.19/HeffemTirage.dll",
+      "sha256": "0861b523ef54070287864c85a532cc30cdc8f91a67109830927a552d8c188c39",
+      "size": 2459136,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouvelle page « Nouveautés » dans les Options avec les notes de toutes les versions. Corrections.",
-      "messageEn": "New \"What's new\" page in Options with the notes of every version. Bug fixes."
+      "messageFr": "Les barres de défilement se prennent et se glissent partout. Menu d'accueil : la barre des mods n'écrase plus les boutons du jeu (FM 27.1) ; un clic sur « F8 Tirage » ouvre la présentation. Plus de faux « incompatible ».",
+      "messageEn": "Scrollbars can now be dragged everywhere. Main menu: the mods bar no longer squeezes the game's buttons (FM 27.1); click \"F8 Draw\" to open the presentation. No more false \"incompatible\" warning."
     }
   }
 }
