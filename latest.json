@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-17T15:47:12Z",
+  "published": "2026-11-17T17:38:23Z",
   "mods": {
     "academy": {
-      "version": "0.9.31",
+      "version": "0.9.32",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.31/HeffemAcademy.dll",
-      "sha256": "81383cd6ea12db0d983146fbc50eace8107c88a6cc08e6d3f562e7301046cc13",
-      "size": 6376448,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.32/HeffemAcademy.dll",
+      "sha256": "8e2b6ac95469df39b829fa2acbce82ea639e5731da0d39235a45bfe99134738d",
+      "size": 6380032,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Parties en ligne sur FM 27.1 : le mod remarche pour les joueurs qui rejoignent un hôte. La monnaie de votre club s'affiche à nouveau correctement. Corrigé : le mod qui restait en pause dans certaines parties.",
-      "messageEn": "Online games on FM 27.1: the mod works again for players who join a host. Your club's currency is shown correctly again. Fixed the mod staying paused in some saves."
+      "messageFr": "FM 27.1 : corrigé, la date du jeu parfois mal lue (Steam et Mac) et « Pas de club » sur Mac. Les dates de l'académie reculées par erreur sont rétablies toutes seules.",
+      "messageEn": "FM 27.1: fixed the in-game date sometimes being read wrong (Steam and Mac) and \"No club\" on Mac. Academy dates that were moved back by mistake are restored automatically."
     },
     "tirage": {
-      "version": "0.6.20",
+      "version": "0.6.21",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.20/HeffemTirage.dll",
-      "sha256": "040b6a46afe4f98ac6da6508b543c8c2264b1054bd5b7a81a48d51f35c01254c",
-      "size": 2460672,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.21/HeffemTirage.dll",
+      "sha256": "ba0273e15b5157c4316fba591fc163235d8249c027e4feb7cd833480ab0963e5",
+      "size": 2461184,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Parties en ligne sur FM 27.1 : le mod remarche pour les joueurs qui rejoignent un hôte.",
-      "messageEn": "Online games on FM 27.1: the mod works again for players who join a host."
+      "messageFr": "FM 27.1 : corrigé, la date du jeu parfois mal lue (mauvaise année de tirage).",
+      "messageEn": "FM 27.1: fixed the in-game date sometimes being read wrong (wrong draw year)."
     }
   }
 }
