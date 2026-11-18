@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-18T12:59:23Z",
+  "published": "2026-11-18T13:52:00Z",
   "mods": {
     "academy": {
-      "version": "0.9.38",
+      "version": "0.9.39",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.38/HeffemAcademy.dll",
-      "sha256": "64f3a3bdaeafeefdb97279da64162af7e52bcbd5db05e3a3a9eb1b9210e1ac5e",
-      "size": 6394368,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.39/HeffemAcademy.dll",
+      "sha256": "03f45d7963b1843b919e0e79791ecde224bcc8c93f6b0931f9c42601f19143f9",
+      "size": 6394880,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les jumeaux et triplés ont maintenant la même date de naissance. Corrigé : le mod restait en pause avec certains noms de manager et dans le jeu en japonais.",
-      "messageEn": "Twins and triplets now share the same birthday. Fixed the mod staying paused with some manager names and in the Japanese-language game."
+      "messageFr": "Corrigé : le mod se mettait en pause sur certains écrans (une date affichée était prise pour la date du jeu).",
+      "messageEn": "Fixed the mod pausing on some screens (a date on the screen was mistaken for the game date)."
     },
     "tirage": {
-      "version": "0.6.25",
+      "version": "0.6.26",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.25/HeffemTirage.dll",
-      "sha256": "6c7c04b54aad55d3b66c670fa68d1c0bf1c69da2c0f1e0fe81a85921078f33bf",
-      "size": 2466816,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.26/HeffemTirage.dll",
+      "sha256": "1636a0ca1512a53899377d1173b3af51101f7dafe081b4cc9ef74568b4cf9d45",
+      "size": 2467328,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : le mod restait en pause avec certains noms de manager et dans le jeu en japonais.",
-      "messageEn": "Fixed the mod staying paused with some manager names and in the Japanese-language game."
+      "messageFr": "Corrigé : le mod se mettait en pause sur certains écrans (une date affichée était prise pour la date du jeu).",
+      "messageEn": "Fixed the mod pausing on some screens (a date on the screen was mistaken for the game date)."
     }
   }
 }
