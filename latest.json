@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-18T13:52:00Z",
+  "published": "2026-11-18T17:17:48Z",
   "mods": {
     "academy": {
-      "version": "0.9.39",
+      "version": "0.9.40",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.39/HeffemAcademy.dll",
-      "sha256": "03f45d7963b1843b919e0e79791ecde224bcc8c93f6b0931f9c42601f19143f9",
-      "size": 6394880,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.40/HeffemAcademy.dll",
+      "sha256": "ed8b31e1912ff52491658cc516a2cf59f12dc10b4cc92fedcdc43d12b71b4d27",
+      "size": 6395392,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : le mod se mettait en pause sur certains écrans (une date affichée était prise pour la date du jeu).",
-      "messageEn": "Fixed the mod pausing on some screens (a date on the screen was mistaken for the game date)."
+      "messageFr": "Mac : le mod ne se coupe plus tout seul après un premier lancement interrompu. Le rappel de touche ne s'affiche plus pendant une partie en ligne.",
+      "messageEn": "Mac: the mod no longer switches itself off after an unusual first launch. The key reminder no longer shows up during online games."
     },
     "tirage": {
-      "version": "0.6.26",
+      "version": "0.6.27",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.26/HeffemTirage.dll",
-      "sha256": "1636a0ca1512a53899377d1173b3af51101f7dafe081b4cc9ef74568b4cf9d45",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.27/HeffemTirage.dll",
+      "sha256": "f3dec34db41d7dd5abf3847bbc50b1c079679e8bd01b96ed36ba5ac26f8eec9a",
       "size": 2467328,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : le mod se mettait en pause sur certains écrans (une date affichée était prise pour la date du jeu).",
-      "messageEn": "Fixed the mod pausing on some screens (a date on the screen was mistaken for the game date)."
+      "messageFr": "Le rappel de touche ne s'affiche plus pendant une partie en ligne.",
+      "messageEn": "The key reminder no longer shows up during online games."
     }
   }
 }
