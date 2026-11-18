@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-17T21:12:02Z",
+  "published": "2026-11-18T10:30:59Z",
   "mods": {
     "academy": {
-      "version": "0.9.36",
+      "version": "0.9.37",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.36/HeffemAcademy.dll",
-      "sha256": "f753ee29d38a3a57f5237410b32b950d0123a1781f6635edc54891cecd30121a",
-      "size": 6390272,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.37/HeffemAcademy.dll",
+      "sha256": "2aa16767db909176fef57996cb5bbe3b5bed3b363a25e3fde4d832e4bd0fa562",
+      "size": 6392320,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : depuis la 0.9.33, le mod passait parfois en lecture seule (puis en pause) au chargement d'une partie. Les matchs à sept buts comptent maintenant dans les statistiques de saison. Mac : étapes d'installation pour macOS 15 et plus.",
-      "messageEn": "Fixed the mod sometimes going read-only (then paused) when loading a save since 0.9.33. Seven-goal games now count in the kid's season stats. Mac: install steps for macOS 15 and later."
+      "messageFr": "Game Pass sur FM 27.1 : corrigé, le mod se mettait en pause après quelques semaines de jeu (date fausse). Les enfants du coach suivent bien leur parent.",
+      "messageEn": "Game Pass on FM 27.1: fixed the mod pausing after a few weeks in game (wrong date). Coach's children now follow the right parent."
     },
     "tirage": {
-      "version": "0.6.23",
+      "version": "0.6.24",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.23/HeffemTirage.dll",
-      "sha256": "ceac886261fff103c3669b834e1d47ab54fa1f2d080662433630717a269d5f57",
-      "size": 2465792,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.24/HeffemTirage.dll",
+      "sha256": "a5c4c66845c2da453b90823e9568b93565cd396c3d66ef3ed2de2ea37af8ccd7",
+      "size": 2466304,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les parties reprises d'un ancien FM (dates avant 2026) fonctionnent à nouveau.",
-      "messageEn": "Saves carried over from an older FM (dates before 2026) work again."
+      "messageFr": "Game Pass sur FM 27.1 : corrigé, le mod se mettait en pause après quelques semaines de jeu (date fausse).",
+      "messageEn": "Game Pass on FM 27.1: fixed the mod pausing after a few weeks in game (wrong date)."
     }
   }
 }
