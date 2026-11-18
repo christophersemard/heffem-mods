@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-18T10:30:59Z",
+  "published": "2026-11-18T12:59:23Z",
   "mods": {
     "academy": {
-      "version": "0.9.37",
+      "version": "0.9.38",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.37/HeffemAcademy.dll",
-      "sha256": "2aa16767db909176fef57996cb5bbe3b5bed3b363a25e3fde4d832e4bd0fa562",
-      "size": 6392320,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.38/HeffemAcademy.dll",
+      "sha256": "64f3a3bdaeafeefdb97279da64162af7e52bcbd5db05e3a3a9eb1b9210e1ac5e",
+      "size": 6394368,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Game Pass sur FM 27.1 : corrigé, le mod se mettait en pause après quelques semaines de jeu (date fausse). Les enfants du coach suivent bien leur parent.",
-      "messageEn": "Game Pass on FM 27.1: fixed the mod pausing after a few weeks in game (wrong date). Coach's children now follow the right parent."
+      "messageFr": "Les jumeaux et triplés ont maintenant la même date de naissance. Corrigé : le mod restait en pause avec certains noms de manager et dans le jeu en japonais.",
+      "messageEn": "Twins and triplets now share the same birthday. Fixed the mod staying paused with some manager names and in the Japanese-language game."
     },
     "tirage": {
-      "version": "0.6.24",
+      "version": "0.6.25",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.24/HeffemTirage.dll",
-      "sha256": "a5c4c66845c2da453b90823e9568b93565cd396c3d66ef3ed2de2ea37af8ccd7",
-      "size": 2466304,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.25/HeffemTirage.dll",
+      "sha256": "6c7c04b54aad55d3b66c670fa68d1c0bf1c69da2c0f1e0fe81a85921078f33bf",
+      "size": 2466816,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Game Pass sur FM 27.1 : corrigé, le mod se mettait en pause après quelques semaines de jeu (date fausse).",
-      "messageEn": "Game Pass on FM 27.1: fixed the mod pausing after a few weeks in game (wrong date)."
+      "messageFr": "Corrigé : le mod restait en pause avec certains noms de manager et dans le jeu en japonais.",
+      "messageEn": "Fixed the mod staying paused with some manager names and in the Japanese-language game."
     }
   }
 }
