@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-18T17:17:48Z",
+  "published": "2026-11-18T17:47:47Z",
   "mods": {
     "academy": {
-      "version": "0.9.40",
+      "version": "0.9.41",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.40/HeffemAcademy.dll",
-      "sha256": "ed8b31e1912ff52491658cc516a2cf59f12dc10b4cc92fedcdc43d12b71b4d27",
-      "size": 6395392,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.41/HeffemAcademy.dll",
+      "sha256": "6209481fd5cedffea79f405bf85fa8735ef06e1079a3820c059ee9eacd98213d",
+      "size": 6395904,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Mac : le mod ne se coupe plus tout seul après un premier lancement interrompu. Le rappel de touche ne s'affiche plus pendant une partie en ligne.",
-      "messageEn": "Mac: the mod no longer switches itself off after an unusual first launch. The key reminder no longer shows up during online games."
+      "messageFr": "Corrigé : le mod restait en pause avec les clubs au nom officiel long. L'installateur trouve maintenant la version Epic Games du jeu.",
+      "messageEn": "Fixed the mod staying paused with clubs that have a long official name. The installer now finds the Epic Games version of the game."
     },
     "tirage": {
       "version": "0.6.27",
