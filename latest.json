@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-19T14:20:13Z",
+  "published": "2026-11-19T20:17:03Z",
   "mods": {
     "academy": {
-      "version": "0.9.43",
+      "version": "0.9.44",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.43/HeffemAcademy.dll",
-      "sha256": "1d5b429f32ca3f80edd0d60b5fbcc41ce70bdc2d9fc2806b2d30946bf9f26734",
-      "size": 6524416,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.44/HeffemAcademy.dll",
+      "sha256": "8c7370c137e04beb933ec243aa28faab628f11cb368b2280dd53e6b8cb6972ec",
+      "size": 6526464,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les améliorations du centre demandent désormais 2 mois de travaux, un chantier à la fois. L'événement du 1er du mois rappelle aussi tes nouvelles détections et observations. La touche du mod se change maintenant dans les options. Corrigé : l'académie pouvait repartir de zéro au rechargement d'une sauvegarde.",
-      "messageEn": "Centre upgrades now take 2 months of works, one project at a time. The 1st-of-month event also reminds you of your new scouting and observations. You can now change the mod's key in Options. Fixed: the academy could restart from scratch after reloading a save."
+      "messageFr": "Corrigé : avec deux managers dont les clubs ont des noms proches, l'Académie pouvait montrer le même club aux deux.",
+      "messageEn": "Fixed: with two managers whose clubs have similar names, the Academy could show the same club for both."
     },
     "tirage": {
       "version": "0.6.29",
