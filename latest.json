@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-19T20:17:03Z",
+  "published": "2026-11-19T23:44:22Z",
   "mods": {
     "academy": {
-      "version": "0.9.44",
+      "version": "0.9.45",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.44/HeffemAcademy.dll",
-      "sha256": "8c7370c137e04beb933ec243aa28faab628f11cb368b2280dd53e6b8cb6972ec",
-      "size": 6526464,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.45/HeffemAcademy.dll",
+      "sha256": "0c5332f2f8478822bbaa55e53b0b86292612f35ee4526e080ad72ade57d62acf",
+      "size": 6530048,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : avec deux managers dont les clubs ont des noms proches, l'Académie pouvait montrer le même club aux deux.",
-      "messageEn": "Fixed: with two managers whose clubs have similar names, the Academy could show the same club for both."
+      "messageFr": "Parties à plusieurs managers : l'Académie suit toujours le manager aux commandes, tout de suite quand tu changes.",
+      "messageEn": "Saves with several managers: the Academy now always follows the manager in charge, straight away when you switch."
     },
     "tirage": {
       "version": "0.6.29",
