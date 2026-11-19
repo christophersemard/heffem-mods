@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-18T17:47:47Z",
+  "published": "2026-11-19T00:11:30Z",
   "mods": {
     "academy": {
-      "version": "0.9.41",
+      "version": "0.9.42",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.41/HeffemAcademy.dll",
-      "sha256": "6209481fd5cedffea79f405bf85fa8735ef06e1079a3820c059ee9eacd98213d",
-      "size": 6395904,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.42/HeffemAcademy.dll",
+      "sha256": "4573eb8ea4464a5e33057bc678f190b3362e0d0419205060d1b32296ab06c42f",
+      "size": 6505984,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : le mod restait en pause avec les clubs au nom officiel long. L'installateur trouve maintenant la version Epic Games du jeu.",
-      "messageEn": "Fixed the mod staying paused with clubs that have a long official name. The installer now finds the Epic Games version of the game."
+      "messageFr": "Les enfants repérés peuvent être frères ou sœurs, parfois jumeaux (rare, sans effet sur leur niveau). Nouveaux boutons Retirer dans le repérage, dont un pour retirer tous les F/E d'un coup. Corrigé : enfants en double dans le repérage sur la version Game Pass. Guide et aide plus clairs quand le mod est en pause.",
+      "messageEn": "Scouted kids can now be siblings, sometimes twins (rare, never changes their level). New Drop buttons in the scouting list, including one to clear every F/E at once. Fixed duplicate kids in the scouting list on the Game Pass version. Clearer guide and help when the mod is paused."
     },
     "tirage": {
-      "version": "0.6.27",
+      "version": "0.6.28",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.27/HeffemTirage.dll",
-      "sha256": "f3dec34db41d7dd5abf3847bbc50b1c079679e8bd01b96ed36ba5ac26f8eec9a",
-      "size": 2467328,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.28/HeffemTirage.dll",
+      "sha256": "1a4458b858b34b6ea78e29fcd90dd35a15dfd6fbcde75f902b9d579aea752e34",
+      "size": 2471424,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Le rappel de touche ne s'affiche plus pendant une partie en ligne.",
-      "messageEn": "The key reminder no longer shows up during online games."
+      "messageFr": "Options réorganisées : aide et assistance d'abord, puis les réglages du tirage.",
+      "messageEn": "Options reorganised: help and support first, then the draw settings."
     }
   }
 }
