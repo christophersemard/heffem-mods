@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-19T00:11:30Z",
+  "published": "2026-11-19T14:20:13Z",
   "mods": {
     "academy": {
-      "version": "0.9.42",
+      "version": "0.9.43",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.42/HeffemAcademy.dll",
-      "sha256": "4573eb8ea4464a5e33057bc678f190b3362e0d0419205060d1b32296ab06c42f",
-      "size": 6505984,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.43/HeffemAcademy.dll",
+      "sha256": "1d5b429f32ca3f80edd0d60b5fbcc41ce70bdc2d9fc2806b2d30946bf9f26734",
+      "size": 6524416,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les enfants repérés peuvent être frères ou sœurs, parfois jumeaux (rare, sans effet sur leur niveau). Nouveaux boutons Retirer dans le repérage, dont un pour retirer tous les F/E d'un coup. Corrigé : enfants en double dans le repérage sur la version Game Pass. Guide et aide plus clairs quand le mod est en pause.",
-      "messageEn": "Scouted kids can now be siblings, sometimes twins (rare, never changes their level). New Drop buttons in the scouting list, including one to clear every F/E at once. Fixed duplicate kids in the scouting list on the Game Pass version. Clearer guide and help when the mod is paused."
+      "messageFr": "Les améliorations du centre demandent désormais 2 mois de travaux, un chantier à la fois. L'événement du 1er du mois rappelle aussi tes nouvelles détections et observations. La touche du mod se change maintenant dans les options. Corrigé : l'académie pouvait repartir de zéro au rechargement d'une sauvegarde.",
+      "messageEn": "Centre upgrades now take 2 months of works, one project at a time. The 1st-of-month event also reminds you of your new scouting and observations. You can now change the mod's key in Options. Fixed: the academy could restart from scratch after reloading a save."
     },
     "tirage": {
-      "version": "0.6.28",
+      "version": "0.6.29",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.28/HeffemTirage.dll",
-      "sha256": "1a4458b858b34b6ea78e29fcd90dd35a15dfd6fbcde75f902b9d579aea752e34",
-      "size": 2471424,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.29/HeffemTirage.dll",
+      "sha256": "daa8f47e585f2a7070574b1f8c0cb20c506881f9a79c2422eea8529b8deaf72a",
+      "size": 2477568,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Options réorganisées : aide et assistance d'abord, puis les réglages du tirage.",
-      "messageEn": "Options reorganised: help and support first, then the draw settings."
+      "messageFr": "La touche du mod se change maintenant dans les options. Suivi des sauvegardes plus fiable.",
+      "messageEn": "You can now change the mod's key in Options. More reliable save tracking."
     }
   }
 }
