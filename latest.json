@@ -1,26 +1,26 @@
 {
   "format": 1,
-  "published": "2026-11-20T10:24:12Z",
+  "published": "2026-11-20T22:32:15Z",
   "mods": {
     "academy": {
-      "version": "0.9.46",
+      "version": "0.9.47",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.46/HeffemAcademy.dll",
-      "sha256": "7e3e488fcb35b3296118edb8ef44f215f61b6317ec220f69cd646ac04e3d979b",
-      "size": 6534144,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.47/HeffemAcademy.dll",
+      "sha256": "ccb3609059839f0423dd4cb25cf31c43f59f1f4821486a0d39733f0e8d35335f",
+      "size": 6537728,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Suivi de la date du jeu plus fiable.",
-      "messageEn": "More reliable in-game date tracking."
+      "messageFr": "Les clubs qui louent leurs installations pour les jeunes sont maintenant pris en charge. Le bouton Quitter de la fenêtre de mise à jour fonctionne correctement.",
+      "messageEn": "Clubs with rented youth facilities are now supported. The update window's Quit button works properly."
     },
     "tirage": {
-      "version": "0.6.29",
+      "version": "0.6.30",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.29/HeffemTirage.dll",
-      "sha256": "daa8f47e585f2a7070574b1f8c0cb20c506881f9a79c2422eea8529b8deaf72a",
-      "size": 2477568,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.30/HeffemTirage.dll",
+      "sha256": "3e1178aa0c2b4124e8f9af533604ec09b99ba89f7d679532487bdf948b3e95c3",
+      "size": 2479104,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "La touche du mod se change maintenant dans les options. Suivi des sauvegardes plus fiable.",
-      "messageEn": "You can now change the mod's key in Options. More reliable save tracking."
+      "messageFr": "Suivi de la date du jeu plus fiable. Le bouton Quitter de la fenêtre de mise à jour fonctionne correctement.",
+      "messageEn": "More reliable in-game date tracking. The update window's Quit button works properly."
     }
   }
 }
