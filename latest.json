@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-19T23:44:22Z",
+  "published": "2026-11-20T10:24:12Z",
   "mods": {
     "academy": {
-      "version": "0.9.45",
+      "version": "0.9.46",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.45/HeffemAcademy.dll",
-      "sha256": "0c5332f2f8478822bbaa55e53b0b86292612f35ee4526e080ad72ade57d62acf",
-      "size": 6530048,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.46/HeffemAcademy.dll",
+      "sha256": "7e3e488fcb35b3296118edb8ef44f215f61b6317ec220f69cd646ac04e3d979b",
+      "size": 6534144,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Parties à plusieurs managers : l'Académie suit toujours le manager aux commandes, tout de suite quand tu changes.",
-      "messageEn": "Saves with several managers: the Academy now always follows the manager in charge, straight away when you switch."
+      "messageFr": "Suivi de la date du jeu plus fiable.",
+      "messageEn": "More reliable in-game date tracking."
     },
     "tirage": {
       "version": "0.6.29",
