@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-20T22:32:15Z",
+  "published": "2026-11-21T09:42:47Z",
   "mods": {
     "academy": {
-      "version": "0.9.47",
+      "version": "0.9.48",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.47/HeffemAcademy.dll",
-      "sha256": "ccb3609059839f0423dd4cb25cf31c43f59f1f4821486a0d39733f0e8d35335f",
-      "size": 6537728,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.48/HeffemAcademy.dll",
+      "sha256": "91799a1a0a3a6a8cce2bc7a8dea7dbee26ae54ab5b2269237e56b8b36cd2fefb",
+      "size": 6543872,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les clubs qui louent leurs installations pour les jeunes sont maintenant pris en charge. Le bouton Quitter de la fenêtre de mise à jour fonctionne correctement.",
-      "messageEn": "Clubs with rented youth facilities are now supported. The update window's Quit button works properly."
+      "messageFr": "Les meilleurs enfants de tes académies partenaires ne disparaissent plus du repérage. Le prestige de l'académie monte plus vite quand tout est au top. Très grands réseaux rééquilibrés.",
+      "messageEn": "Fixed the best kids from your partner academies sometimes disappearing from scouting. Academy prestige grows faster when everything is top level. Very large networks rebalanced."
     },
     "tirage": {
       "version": "0.6.30",
