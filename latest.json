@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-21T09:42:47Z",
+  "published": "2026-11-21T10:36:46Z",
   "mods": {
     "academy": {
-      "version": "0.9.48",
+      "version": "0.9.49",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.48/HeffemAcademy.dll",
-      "sha256": "91799a1a0a3a6a8cce2bc7a8dea7dbee26ae54ab5b2269237e56b8b36cd2fefb",
-      "size": 6543872,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.49/HeffemAcademy.dll",
+      "sha256": "9389813f5d3b1d76df08b944f743413bfad77d730b36595961ba11546266760f",
+      "size": 6544896,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les meilleurs enfants de tes académies partenaires ne disparaissent plus du repérage. Le prestige de l'académie monte plus vite quand tout est au top. Très grands réseaux rééquilibrés.",
-      "messageEn": "Fixed the best kids from your partner academies sometimes disappearing from scouting. Academy prestige grows faster when everything is top level. Very large networks rebalanced."
+      "messageFr": "Grandes académies des petits pays de football rééquilibrées. Un potentiel de 185+ est désormais toujours noté S. Pépites venues de l'étranger mieux réparties.",
+      "messageEn": "Top academies in smaller football countries rebalanced. A 185+ potential is now always rated S. Hidden gems from abroad are spread more smoothly."
     },
     "tirage": {
       "version": "0.6.30",
