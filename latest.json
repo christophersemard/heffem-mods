@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-22T15:15:30Z",
+  "published": "2026-11-22T18:06:59Z",
   "mods": {
     "academy": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.0/HeffemAcademy.dll",
-      "sha256": "f9f7e7df0a9a2a88939b6c79f0336fa9c26164377fae5322d8be7b7fa8a1a782",
-      "size": 7975936,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.1/HeffemAcademy.dll",
+      "sha256": "ce9c3866d9b987a512d3c4871253020e348f83c3e3e8d6477e7a18a589d84424",
+      "size": 7977472,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Refonte complète du design : tous les écrans de l'académie ont été redessinés, avec ton centre vu d'en haut, le musée du club dans les Archives, un vestiaire pour ta prochaine promotion, de nouvelles cartes de repérage, un tableau façon aéroport pour le réseau, un accueil plus clair et de courtes scènes animées. Nouveau : niveau 4 des pôles de ton centre, et capitaines d'équipe. Les blessures et la progression de chaque enfant sur la saison sont affichées partout. Signale un problème en un clic, depuis le jeu ou l'installateur : le rapport m'arrive tout seul. Ton académie continue de vivre si tu quittes le club. Équilibrage et nombreux correctifs.",
-      "messageEn": "Full design overhaul: every screen of the academy has been redrawn, with your centre seen from above, the club museum in Archives, a locker room for your next intake, new scouting cards, an airport-style network board, a clearer home page and short animated scenes. New: level 4 for your centre's units, and team captains. Injuries and each kid's progress over the season are now shown everywhere. Report a problem in one click, from the game or the installer: the report reaches me on its own. Your academy keeps running if you leave the club. Balance tweaks and many fixes."
+      "messageFr": "Correction des promotions anticipées qui pouvaient remplacer des joueurs d'une promotion précédente lorsque FM cessait brièvement d'indiquer le club du manager. Le mod vérifie que la nationalité correspond toujours au bon pays avant de l'écrire.",
+      "messageEn": "Fixed premature youth intakes that could overwrite players from an earlier intake when FM briefly stopped reporting the manager's club. The mod now verifies that a nationality still points to the right country before writing it."
     },
     "tirage": {
       "version": "0.6.30",
