@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-22T18:06:59Z",
+  "published": "2026-11-22T18:45:18Z",
   "mods": {
     "academy": {
-      "version": "1.0.1",
+      "version": "1.0.2",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.1/HeffemAcademy.dll",
-      "sha256": "ce9c3866d9b987a512d3c4871253020e348f83c3e3e8d6477e7a18a589d84424",
-      "size": 7977472,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.2/HeffemAcademy.dll",
+      "sha256": "8a211cdac1afefdb16923af4699d36aa6bffce27a314703e89e171d095f46292",
+      "size": 7979520,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Correction des promotions anticipées qui pouvaient remplacer des joueurs d'une promotion précédente lorsque FM cessait brièvement d'indiquer le club du manager. Le mod vérifie que la nationalité correspond toujours au bon pays avant de l'écrire.",
-      "messageEn": "Fixed premature youth intakes that could overwrite players from an earlier intake when FM briefly stopped reporting the manager's club. The mod now verifies that a nationality still points to the right country before writing it."
+      "messageFr": "Correction du mauvais historique affiche apres un changement de sauvegarde, reprise de la liaison en ligne apres remplacement du manager et correction des cles des fichiers de langue.",
+      "messageEn": "Fixed academy data being shown from the wrong save after switching careers, improved online reconnection after a manager changes, and corrected language reference keys."
     },
     "tirage": {
       "version": "0.6.30",
