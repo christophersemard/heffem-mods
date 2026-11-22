@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-22T18:45:18Z",
+  "published": "2026-11-22T19:01:41Z",
   "mods": {
     "academy": {
-      "version": "1.0.2",
+      "version": "1.0.3",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.2/HeffemAcademy.dll",
-      "sha256": "8a211cdac1afefdb16923af4699d36aa6bffce27a314703e89e171d095f46292",
-      "size": 7979520,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.3/HeffemAcademy.dll",
+      "sha256": "b21b91d64a43daf9dc153653e162d1810b61d702cfc5ea71b780dcc2e57fa1b8",
+      "size": 7982080,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Correction du mauvais historique affiche apres un changement de sauvegarde, reprise de la liaison en ligne apres remplacement du manager et correction des cles des fichiers de langue.",
-      "messageEn": "Fixed academy data being shown from the wrong save after switching careers, improved online reconnection after a manager changes, and corrected language reference keys."
+      "messageFr": "Correction des ages impossibles des jeunes restes dans l'Academie apres une mauvaise lecture temporaire de la date. Le recalage ne touche que la cohorte concernee et se base sur la date verifiee de la sauvegarde.",
+      "messageEn": "Fixed academy members being left with impossible ages when the game briefly reported an incorrect date. Recovery now adjusts only the affected old cohort, using the verified date from the save."
     },
     "tirage": {
       "version": "0.6.30",
