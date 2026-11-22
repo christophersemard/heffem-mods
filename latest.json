@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-21T10:36:46Z",
+  "published": "2026-11-22T15:15:30Z",
   "mods": {
     "academy": {
-      "version": "0.9.49",
+      "version": "1.0.0",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-0.9.49/HeffemAcademy.dll",
-      "sha256": "9389813f5d3b1d76df08b944f743413bfad77d730b36595961ba11546266760f",
-      "size": 6544896,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.0/HeffemAcademy.dll",
+      "sha256": "f9f7e7df0a9a2a88939b6c79f0336fa9c26164377fae5322d8be7b7fa8a1a782",
+      "size": 7975936,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Grandes académies des petits pays de football rééquilibrées. Un potentiel de 185+ est désormais toujours noté S. Pépites venues de l'étranger mieux réparties.",
-      "messageEn": "Top academies in smaller football countries rebalanced. A 185+ potential is now always rated S. Hidden gems from abroad are spread more smoothly."
+      "messageFr": "Refonte complète du design : tous les écrans de l'académie ont été redessinés, avec ton centre vu d'en haut, le musée du club dans les Archives, un vestiaire pour ta prochaine promotion, de nouvelles cartes de repérage, un tableau façon aéroport pour le réseau, un accueil plus clair et de courtes scènes animées. Nouveau : niveau 4 des pôles de ton centre, et capitaines d'équipe. Les blessures et la progression de chaque enfant sur la saison sont affichées partout. Signale un problème en un clic, depuis le jeu ou l'installateur : le rapport m'arrive tout seul. Ton académie continue de vivre si tu quittes le club. Équilibrage et nombreux correctifs.",
+      "messageEn": "Full design overhaul: every screen of the academy has been redrawn, with your centre seen from above, the club museum in Archives, a locker room for your next intake, new scouting cards, an airport-style network board, a clearer home page and short animated scenes. New: level 4 for your centre's units, and team captains. Injuries and each kid's progress over the season are now shown everywhere. Report a problem in one click, from the game or the installer: the report reaches me on its own. Your academy keeps running if you leave the club. Balance tweaks and many fixes."
     },
     "tirage": {
       "version": "0.6.30",
