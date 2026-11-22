@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-22T22:41:26Z",
+  "published": "2026-11-22T23:20:53Z",
   "mods": {
     "academy": {
-      "version": "1.0.5",
+      "version": "1.0.6",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.5/HeffemAcademy.dll",
-      "sha256": "b87f1045362838d56130e9fb84e8a7e8bffc457106a7e67d4c9458facd9fb514",
-      "size": 7995392,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.6/HeffemAcademy.dll",
+      "sha256": "5df4b63893c88ef79c0696b0d3773509d8d8baeab104ee12775cab2bfedb3f4f",
+      "size": 8002048,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Signaler un problème : quand le mod détecte lui-même le souci, le rapport part tout seul ; sinon il t'aide à le créer et à venir sur le Discord, pour qu'on puisse te répondre. Plus d'aide dans l'installateur quand le jeu ne démarre pas.",
-      "messageEn": "Report a problem: when the mod detects the issue itself, the report is sent on its own; otherwise it helps you create it and reach the Discord, so we can answer you. More help in the installer when the game doesn't start."
+      "messageFr": "Une sauvegarde qui a déjà utilisé l'académie sur un autre PC explique maintenant comment la récupérer (exporter là-bas, importer ici), ou permet de recommencer de zéro. Les jeunes des clubs féminins ont des portraits de filles. Traduction vietnamienne revue par Minh Quân.",
+      "messageEn": "A save that already used the academy on another PC now explains how to bring it back (export there, import here), or lets you start from scratch. Kids at women's clubs get girls' portraits. Vietnamese translation reviewed by Minh Quân."
     },
     "tirage": {
       "version": "0.6.31",
