@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-22T20:02:54Z",
+  "published": "2026-11-22T21:08:39Z",
   "mods": {
     "academy": {
-      "version": "1.0.4",
+      "version": "1.0.5",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.4/HeffemAcademy.dll",
-      "sha256": "b33025bd227a3498a4c3565d468775864c8e0417092cbc7aa6ccaaa4d53b9f6f",
-      "size": 7988736,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.5/HeffemAcademy.dll",
+      "sha256": "b87f1045362838d56130e9fb84e8a7e8bffc457106a7e67d4c9458facd9fb514",
+      "size": 7995392,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Recharger une ancienne sauvegarde ramène toujours ton académie telle qu'elle était à ce moment-là, jamais une copie d'une autre branche de ta carrière. Écran plus clair quand tu joues le manager d'une équipe B : il te dit quel manager choisir.",
-      "messageEn": "Reloading an older save always brings back your academy as it was at that time, never a copy from another branch of your career. Clearer screen when you play the manager of a B team: it tells you which manager to pick."
+      "messageFr": "Signaler un problème : quand le mod détecte lui-même le souci, le rapport part tout seul ; sinon il t'aide à le créer et à venir sur le Discord, pour qu'on puisse te répondre. Plus d'aide dans l'installateur quand le jeu ne démarre pas.",
+      "messageEn": "Report a problem: when the mod detects the issue itself, the report is sent on its own; otherwise it helps you create it and reach the Discord, so we can answer you. More help in the installer when the game doesn't start."
     },
     "tirage": {
       "version": "0.6.30",
