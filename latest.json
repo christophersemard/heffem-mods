@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-22T19:01:41Z",
+  "published": "2026-11-22T20:02:54Z",
   "mods": {
     "academy": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.3/HeffemAcademy.dll",
-      "sha256": "b21b91d64a43daf9dc153653e162d1810b61d702cfc5ea71b780dcc2e57fa1b8",
-      "size": 7982080,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.4/HeffemAcademy.dll",
+      "sha256": "b33025bd227a3498a4c3565d468775864c8e0417092cbc7aa6ccaaa4d53b9f6f",
+      "size": 7988736,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Correction des ages impossibles des jeunes restes dans l'Academie apres une mauvaise lecture temporaire de la date. Le recalage ne touche que la cohorte concernee et se base sur la date verifiee de la sauvegarde.",
-      "messageEn": "Fixed academy members being left with impossible ages when the game briefly reported an incorrect date. Recovery now adjusts only the affected old cohort, using the verified date from the save."
+      "messageFr": "Recharger une ancienne sauvegarde ramène toujours ton académie telle qu'elle était à ce moment-là, jamais une copie d'une autre branche de ta carrière. Écran plus clair quand tu joues le manager d'une équipe B : il te dit quel manager choisir.",
+      "messageEn": "Reloading an older save always brings back your academy as it was at that time, never a copy from another branch of your career. Clearer screen when you play the manager of a B team: it tells you which manager to pick."
     },
     "tirage": {
       "version": "0.6.30",
