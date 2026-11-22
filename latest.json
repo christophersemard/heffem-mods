@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "published": "2026-11-22T21:08:39Z",
+  "published": "2026-11-22T22:41:26Z",
   "mods": {
     "academy": {
       "version": "1.0.5",
@@ -13,14 +13,14 @@
       "messageEn": "Report a problem: when the mod detects the issue itself, the report is sent on its own; otherwise it helps you create it and reach the Discord, so we can answer you. More help in the installer when the game doesn't start."
     },
     "tirage": {
-      "version": "0.6.30",
+      "version": "0.6.31",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.30/HeffemTirage.dll",
-      "sha256": "3e1178aa0c2b4124e8f9af533604ec09b99ba89f7d679532487bdf948b3e95c3",
-      "size": 2479104,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.31/HeffemTirage.dll",
+      "sha256": "5e0269d6470b541193d34165ab63ffa1a93c04f2e21fa5c75fca15be9530e22f",
+      "size": 2579456,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Suivi de la date du jeu plus fiable. Le bouton Quitter de la fenêtre de mise à jour fonctionne correctement.",
-      "messageEn": "More reliable in-game date tracking. The update window's Quit button works properly."
+      "messageFr": "Une nouvelle carrière n'est plus confondue avec une de tes anciennes carrières. Ta sauvegarde est reconnue plus sûrement. Signaler un problème depuis le mod : le rapport part tout seul quand le mod détecte le souci, sinon il t'aide à le créer et à venir sur le Discord. Fenêtre de mise à jour et notes de version plus claires.",
+      "messageEn": "A new career is no longer mistaken for one of your older careers. Your save is recognized more reliably. Report a problem from the mod: the report is sent on its own when the mod detects the issue, otherwise it helps you create it and reach the Discord. Clearer update window and release notes."
     }
   }
 }
