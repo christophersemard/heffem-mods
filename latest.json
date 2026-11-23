@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-23T19:46:02Z",
+  "published": "2026-11-23T21:33:28Z",
   "mods": {
     "academy": {
-      "version": "1.0.11",
+      "version": "1.0.12",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.11/HeffemAcademy.dll",
-      "sha256": "46abf26995fd486f667221a8c019df18fde827496b64c7e3ad0c019ce2a673ef",
-      "size": 8043520,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.12/HeffemAcademy.dll",
+      "sha256": "4a4f0bc474dcd4a3e9087f72eb3923515098f1f07a16dfa9212cadbbc4c40207",
+      "size": 8057856,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : les mois des années bissextiles. Le 29 février ne compte plus pour mars, et les recherches du mois reviennent le bon jour. Corrigé : le mod qui restait parfois en lecture seule après le chargement d'une sauvegarde, et les recherches qui ne donnaient alors aucun résultat.",
-      "messageEn": "Fixed months in leap years: 29 February no longer counts as March, so monthly scouting trips come back on the right day. Fixed the mod sometimes staying read-only after loading a save, which made scouting give no results."
+      "messageFr": "Corrigé : le mod qui se mettait en pause quand on rechargeait une ancienne sauvegarde après une longue session. Il garde maintenant les données de chaque sauvegarde chargée, reprend seul la bonne copie quand il le peut, et sinon propose un bouton « Reprendre cette copie ». Les trajets de détection partent de la vraie ville du club et vont vers de vraies villes proches. Le mur des anciens peut être masqué.",
+      "messageEn": "Fixed the mod pausing when you reload an older save after a long session: it now keeps the data of every save you load, picks up the matching copy on its own when it can, and otherwise offers a \"Resume this copy\" button. Scouting trips now start from your club's real city and go to real towns nearby. The Alumni wall can be hidden."
     },
     "tirage": {
       "version": "0.6.31",
