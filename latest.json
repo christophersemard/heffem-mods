@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-23T15:48:44Z",
+  "published": "2026-11-23T16:06:02Z",
   "mods": {
     "academy": {
       "version": "1.0.9",
       "dll": "HeffemAcademy.dll",
       "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.9/HeffemAcademy.dll",
-      "sha256": "96c227731f3eca59e6ea48f71a492a0a13bbbcbf651b01cc1255e00d75b7cc59",
+      "sha256": "a676f520357a03b7c3a76ab6c7b60788e2cd89688a9430bfb765c4d6f9dd5590",
       "size": 8035840,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Quand un rival ou un agent débauche un de tes jeunes, tu vois maintenant le club qu'il rejoint, et les jeunes partent dans des clubs plus crédibles. Le won coréen s'affiche à la coréenne (억, 만, 원) quand le jeu est en coréen. Corrigé : dans certains pays, comme Hong Kong, les jeunes de l'académie n'arrivaient jamais dans la promotion. Le solde du club et les prix s'affichent plus précisément : les petites dépenses se voient.",
-      "messageEn": "When a rival or an agent poaches one of your academy kids, you now see which club he joins, and kids go to more believable clubs. Korean won is shown the Korean way (억, 만, 원) when the game is in Korean. Fixed academy kids never reaching the youth intake in some countries, such as Hong Kong. Club balance and prices are shown more precisely, so small expenses are visible."
+      "messageFr": "Quand un rival ou un agent débauche un de tes jeunes, tu vois maintenant le club qu'il rejoint, et les jeunes partent dans des clubs plus crédibles. Les montants en won utilisent les unités coréennes quand le jeu est en coréen. Corrigé : dans certains pays, comme Hong Kong, les jeunes de l'académie n'arrivaient jamais dans la promotion. Le solde du club et les prix s'affichent plus précisément : les petites dépenses se voient. Les mises à jour automatiques ne restent plus bloquées par un ancien fichier en lecture seule.",
+      "messageEn": "When a rival or an agent poaches one of your academy kids, you now see which club he joins, and kids go to more believable clubs. Korean won amounts use Korean number units when the game is in Korean. Fixed academy kids never reaching the youth intake in some countries, such as Hong Kong. Club balance and prices are shown more precisely, so small expenses are visible. Automatic updates no longer get stuck when an old file is read-only."
     },
     "tirage": {
       "version": "0.6.31",
