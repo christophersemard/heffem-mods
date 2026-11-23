@@ -1,12 +1,12 @@
 {
   "format": 1,
-  "published": "2026-11-23T00:46:18Z",
+  "published": "2026-11-23T01:02:32Z",
   "mods": {
     "academy": {
       "version": "1.0.7",
       "dll": "HeffemAcademy.dll",
       "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.7/HeffemAcademy.dll",
-      "sha256": "072f6b1746cb4863024df32861ae5d9d510467428a591354a8cd00a80d9ab160",
+      "sha256": "ad4b048d1b6c8993678fe63c36f8220fe5cd28f2c60e65a9ed0584a009c7148e",
       "size": 8017408,
       "minLoader": "BepInEx 6 be.793",
       "messageFr": "Si tes jeunes de l'académie ne sont plus dans la promotion annoncée (par exemple après avoir chargé une ancienne sauvegarde), le mod les y réécrit avant son arrivée. Plus de textes traduits dans toutes les langues.",
