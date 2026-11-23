@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-23T11:54:30Z",
+  "published": "2026-11-23T15:48:44Z",
   "mods": {
     "academy": {
-      "version": "1.0.8",
+      "version": "1.0.9",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.8/HeffemAcademy.dll",
-      "sha256": "944ff4aab71a206215f35bea5410b3b9f5d0e7e27a240e0e6160f8c1c2552390",
-      "size": 8028160,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.9/HeffemAcademy.dll",
+      "sha256": "96c227731f3eca59e6ea48f71a492a0a13bbbcbf651b01cc1255e00d75b7cc59",
+      "size": 8035840,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouveau réglage Animations dans les options : coupé, chaque scène s'affiche directement à la fin, avec son résultat. Les jeunes portent toujours des noms de leur pays. Plus léger et plus fluide avec les grosses académies, et une académie laissée sans manager ne garde que ses jeunes. L'installateur repère quand Steam relance le jeu sans les mods, et peut redémarrer Steam pour toi.",
-      "messageEn": "New Animations switch in the options: turn it off and every scene shows straight at its end, with its result. Kids now always get names from their own country. Lighter and smoother with big academies, and academies left without a manager keep only their kids. The installer now spots when Steam restarts the game without the mods, and can restart Steam for you."
+      "messageFr": "Quand un rival ou un agent débauche un de tes jeunes, tu vois maintenant le club qu'il rejoint, et les jeunes partent dans des clubs plus crédibles. Le won coréen s'affiche à la coréenne (억, 만, 원) quand le jeu est en coréen. Corrigé : dans certains pays, comme Hong Kong, les jeunes de l'académie n'arrivaient jamais dans la promotion. Le solde du club et les prix s'affichent plus précisément : les petites dépenses se voient.",
+      "messageEn": "When a rival or an agent poaches one of your academy kids, you now see which club he joins, and kids go to more believable clubs. Korean won is shown the Korean way (억, 만, 원) when the game is in Korean. Fixed academy kids never reaching the youth intake in some countries, such as Hong Kong. Club balance and prices are shown more precisely, so small expenses are visible."
     },
     "tirage": {
       "version": "0.6.31",
