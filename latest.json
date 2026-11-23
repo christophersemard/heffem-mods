@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-23T19:21:09Z",
+  "published": "2026-11-23T19:46:02Z",
   "mods": {
     "academy": {
-      "version": "1.0.10",
+      "version": "1.0.11",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.10/HeffemAcademy.dll",
-      "sha256": "4d3a4c074dc0c7152cdb1c9f3372774c4f5e501e87dafce5e03e43acc309bf8e",
-      "size": 8043008,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.11/HeffemAcademy.dll",
+      "sha256": "46abf26995fd486f667221a8c019df18fde827496b64c7e3ad0c019ce2a673ef",
+      "size": 8043520,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Archives : les jeunes libérés après la promotion s'affichent « Sans club », et un nouveau filtre « Joueurs actifs » masque les retraités. Corrigé : des jeunes repérés avec un âge impossible, comme -48 ans ; ceux déjà repérés retrouvent leur vrai âge. Corrigé : une nouvelle carrière qui reprenait l'académie d'une carrière chargée plus tôt dans la même session.",
-      "messageEn": "Archives: kids released after the intake now show as \"Without club\", and a new \"Active players\" filter hides retired kids. Fixed scouted kids with impossible ages, such as -48: the ones already scouted get their real age back. Fixed a new career taking over the academy of a career loaded earlier in the same session."
+      "messageFr": "Corrigé : les mois des années bissextiles. Le 29 février ne compte plus pour mars, et les recherches du mois reviennent le bon jour. Corrigé : le mod qui restait parfois en lecture seule après le chargement d'une sauvegarde, et les recherches qui ne donnaient alors aucun résultat.",
+      "messageEn": "Fixed months in leap years: 29 February no longer counts as March, so monthly scouting trips come back on the right day. Fixed the mod sometimes staying read-only after loading a save, which made scouting give no results."
     },
     "tirage": {
       "version": "0.6.31",
