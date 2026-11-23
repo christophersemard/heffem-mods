@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-22T23:20:53Z",
+  "published": "2026-11-23T00:46:18Z",
   "mods": {
     "academy": {
-      "version": "1.0.6",
+      "version": "1.0.7",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.6/HeffemAcademy.dll",
-      "sha256": "5df4b63893c88ef79c0696b0d3773509d8d8baeab104ee12775cab2bfedb3f4f",
-      "size": 8002048,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.7/HeffemAcademy.dll",
+      "sha256": "072f6b1746cb4863024df32861ae5d9d510467428a591354a8cd00a80d9ab160",
+      "size": 8017408,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Une sauvegarde qui a déjà utilisé l'académie sur un autre PC explique maintenant comment la récupérer (exporter là-bas, importer ici), ou permet de recommencer de zéro. Les jeunes des clubs féminins ont des portraits de filles. Traduction vietnamienne revue par Minh Quân.",
-      "messageEn": "A save that already used the academy on another PC now explains how to bring it back (export there, import here), or lets you start from scratch. Kids at women's clubs get girls' portraits. Vietnamese translation reviewed by Minh Quân."
+      "messageFr": "Si tes jeunes de l'académie ne sont plus dans la promotion annoncée (par exemple après avoir chargé une ancienne sauvegarde), le mod les y réécrit avant son arrivée. Plus de textes traduits dans toutes les langues.",
+      "messageEn": "If your academy kids are no longer in the announced intake (for example after loading an older save), the mod writes them in again before it arrives. More texts translated in every language."
     },
     "tirage": {
       "version": "0.6.31",
