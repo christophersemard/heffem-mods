@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-23T16:06:02Z",
+  "published": "2026-11-23T19:21:09Z",
   "mods": {
     "academy": {
-      "version": "1.0.9",
+      "version": "1.0.10",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.9/HeffemAcademy.dll",
-      "sha256": "a676f520357a03b7c3a76ab6c7b60788e2cd89688a9430bfb765c4d6f9dd5590",
-      "size": 8035840,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.10/HeffemAcademy.dll",
+      "sha256": "4d3a4c074dc0c7152cdb1c9f3372774c4f5e501e87dafce5e03e43acc309bf8e",
+      "size": 8043008,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Quand un rival ou un agent débauche un de tes jeunes, tu vois maintenant le club qu'il rejoint, et les jeunes partent dans des clubs plus crédibles. Les montants en won utilisent les unités coréennes quand le jeu est en coréen. Corrigé : dans certains pays, comme Hong Kong, les jeunes de l'académie n'arrivaient jamais dans la promotion. Le solde du club et les prix s'affichent plus précisément : les petites dépenses se voient. Les mises à jour automatiques ne restent plus bloquées par un ancien fichier en lecture seule.",
-      "messageEn": "When a rival or an agent poaches one of your academy kids, you now see which club he joins, and kids go to more believable clubs. Korean won amounts use Korean number units when the game is in Korean. Fixed academy kids never reaching the youth intake in some countries, such as Hong Kong. Club balance and prices are shown more precisely, so small expenses are visible. Automatic updates no longer get stuck when an old file is read-only."
+      "messageFr": "Archives : les jeunes libérés après la promotion s'affichent « Sans club », et un nouveau filtre « Joueurs actifs » masque les retraités. Corrigé : des jeunes repérés avec un âge impossible, comme -48 ans ; ceux déjà repérés retrouvent leur vrai âge. Corrigé : une nouvelle carrière qui reprenait l'académie d'une carrière chargée plus tôt dans la même session.",
+      "messageEn": "Archives: kids released after the intake now show as \"Without club\", and a new \"Active players\" filter hides retired kids. Fixed scouted kids with impossible ages, such as -48: the ones already scouted get their real age back. Fixed a new career taking over the academy of a career loaded earlier in the same session."
     },
     "tirage": {
       "version": "0.6.31",
