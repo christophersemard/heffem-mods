@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-23T01:02:32Z",
+  "published": "2026-11-23T11:54:30Z",
   "mods": {
     "academy": {
-      "version": "1.0.7",
+      "version": "1.0.8",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.7/HeffemAcademy.dll",
-      "sha256": "ad4b048d1b6c8993678fe63c36f8220fe5cd28f2c60e65a9ed0584a009c7148e",
-      "size": 8017408,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.8/HeffemAcademy.dll",
+      "sha256": "944ff4aab71a206215f35bea5410b3b9f5d0e7e27a240e0e6160f8c1c2552390",
+      "size": 8028160,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Si tes jeunes de l'académie ne sont plus dans la promotion annoncée (par exemple après avoir chargé une ancienne sauvegarde), le mod les y réécrit avant son arrivée. Plus de textes traduits dans toutes les langues.",
-      "messageEn": "If your academy kids are no longer in the announced intake (for example after loading an older save), the mod writes them in again before it arrives. More texts translated in every language."
+      "messageFr": "Nouveau réglage Animations dans les options : coupé, chaque scène s'affiche directement à la fin, avec son résultat. Les jeunes portent toujours des noms de leur pays. Plus léger et plus fluide avec les grosses académies, et une académie laissée sans manager ne garde que ses jeunes. L'installateur repère quand Steam relance le jeu sans les mods, et peut redémarrer Steam pour toi.",
+      "messageEn": "New Animations switch in the options: turn it off and every scene shows straight at its end, with its result. Kids now always get names from their own country. Lighter and smoother with big academies, and academies left without a manager keep only their kids. The installer now spots when Steam restarts the game without the mods, and can restart Steam for you."
     },
     "tirage": {
       "version": "0.6.31",
