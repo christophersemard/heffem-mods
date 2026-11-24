@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-24T16:22:17Z",
+  "published": "2026-11-24T17:12:13Z",
   "mods": {
     "academy": {
-      "version": "1.0.15",
+      "version": "1.0.16",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.15/HeffemAcademy.dll",
-      "sha256": "85d9b14cdbf9f3b82f39d09704495b6f9eacdef4148e3624d82e64d30c401a4b",
-      "size": 8478720,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.16/HeffemAcademy.dll",
+      "sha256": "fcbeea98e93609751f3af58fa23083cb00a03d356e3f094297e2aaf8c5d16a4b",
+      "size": 8576000,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : le mod qui se mettait en pause chez les joueurs Game Pass qui rejoignent une partie en ligne, après la mise à jour 27.1.1 de FM.",
-      "messageEn": "Fixed the mod pausing for Game Pass players who join an online game after FM's 27.1.1 update."
+      "messageFr": "Nouveau : quand FM est mis à jour ou que le jeu n'a pas démarré, un petit guide explique la fenêtre de protection du jeu (« Sorry, something went wrong ») et comment la passer. Nouveau chapitre du Guide sur les enfants qui arrivent par leur famille (légendes, tes joueurs, ton propre enfant), avec leurs chances. Rapports du réseau plus clairs. Corrigé : la page Mon centre qui tremblait.",
+      "messageEn": "New: when FM gets updated or the game didn't start, a short guide now explains the game's copy protection window (\"Sorry, something went wrong\") and how to get past it. New Guide chapter on kids joining through family (legends, your players, your own child), with their chances. Clearer network reports. Fixed the My centre page shaking."
     },
     "tirage": {
       "version": "0.6.33",
