@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-23T21:33:28Z",
+  "published": "2026-11-24T14:24:21Z",
   "mods": {
     "academy": {
-      "version": "1.0.12",
+      "version": "1.0.13",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.12/HeffemAcademy.dll",
-      "sha256": "4a4f0bc474dcd4a3e9087f72eb3923515098f1f07a16dfa9212cadbbc4c40207",
-      "size": 8057856,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.13/HeffemAcademy.dll",
+      "sha256": "a5e3e8da55835e36d15078a970a96562f3f01f86bc7418bbc825d7de818694d7",
+      "size": 8478208,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : le mod qui se mettait en pause quand on rechargeait une ancienne sauvegarde après une longue session. Il garde maintenant les données de chaque sauvegarde chargée, reprend seul la bonne copie quand il le peut, et sinon propose un bouton « Reprendre cette copie ». Les trajets de détection partent de la vraie ville du club et vont vers de vraies villes proches. Le mur des anciens peut être masqué.",
-      "messageEn": "Fixed the mod pausing when you reload an older save after a long session: it now keeps the data of every save you load, picks up the matching copy on its own when it can, and otherwise offers a \"Resume this copy\" button. Scouting trips now start from your club's real city and go to real towns nearby. The Alumni wall can be hidden."
+      "messageFr": "Nouveau : traduction en arabe, merci à A.Salah91 ! Corrigé : le mod qui se mettait en pause sur Mac après la mise à jour 27.1.1 de FM. Les rapports de problème joignent maintenant le journal du jeu d'une session qui a planté.",
+      "messageEn": "New: Arabic translation, thanks to A.Salah91! Fixed the mod pausing on Mac after FM's 27.1.1 update. Problem reports now include the game log of a session that crashed."
     },
     "tirage": {
       "version": "0.6.31",
