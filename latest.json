@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "published": "2026-11-24T15:18:14Z",
+  "published": "2026-11-24T15:43:14Z",
   "mods": {
     "academy": {
       "version": "1.0.14",
@@ -13,14 +13,14 @@
       "messageEn": "Fixed the mod pausing for players who join an online game after FM's 27.1.1 update."
     },
     "tirage": {
-      "version": "0.6.31",
+      "version": "0.6.32",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.31/HeffemTirage.dll",
-      "sha256": "5e0269d6470b541193d34165ab63ffa1a93c04f2e21fa5c75fca15be9530e22f",
-      "size": 2579456,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.32/HeffemTirage.dll",
+      "sha256": "c5457c4247d9965f1f956d84785116d26831f39166af8733afab1fb6de5b805f",
+      "size": 2581504,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Une nouvelle carrière n'est plus confondue avec une de tes anciennes carrières. Ta sauvegarde est reconnue plus sûrement. Signaler un problème depuis le mod : le rapport part tout seul quand le mod détecte le souci, sinon il t'aide à le créer et à venir sur le Discord. Fenêtre de mise à jour et notes de version plus claires.",
-      "messageEn": "A new career is no longer mistaken for one of your older careers. Your save is recognized more reliably. Report a problem from the mod: the report is sent on its own when the mod detects the issue, otherwise it helps you create it and reach the Discord. Clearer update window and release notes."
+      "messageFr": "Corrigé : le mod qui se mettait en pause après la mise à jour 27.1.1 de FM, chez les joueurs qui rejoignent une partie en ligne et sur Mac. Les rapports de problème joignent maintenant le journal du jeu d'une session qui a planté.",
+      "messageEn": "Fixed the mod pausing after FM's 27.1.1 update for players who join an online game, and on Mac. Problem reports now include the game log of a session that crashed."
     }
   }
 }
