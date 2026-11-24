@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "published": "2026-11-24T16:21:00Z",
+  "published": "2026-11-24T16:22:17Z",
   "mods": {
     "academy": {
       "version": "1.0.15",
@@ -13,14 +13,14 @@
       "messageEn": "Fixed the mod pausing for Game Pass players who join an online game after FM's 27.1.1 update."
     },
     "tirage": {
-      "version": "0.6.32",
+      "version": "0.6.33",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.32/HeffemTirage.dll",
-      "sha256": "c5457c4247d9965f1f956d84785116d26831f39166af8733afab1fb6de5b805f",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.33/HeffemTirage.dll",
+      "sha256": "3f57b59716ea2ca700d8147160f4315fbb8ec8f31530a0f8bce60382a1eb1516",
       "size": 2581504,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : le mod qui se mettait en pause après la mise à jour 27.1.1 de FM, chez les joueurs qui rejoignent une partie en ligne et sur Mac. Les rapports de problème joignent maintenant le journal du jeu d'une session qui a planté.",
-      "messageEn": "Fixed the mod pausing after FM's 27.1.1 update for players who join an online game, and on Mac. Problem reports now include the game log of a session that crashed."
+      "messageFr": "Corrigé : le mod qui se mettait en pause chez les joueurs Game Pass qui rejoignent une partie en ligne, après la mise à jour 27.1.1 de FM.",
+      "messageEn": "Fixed the mod pausing for Game Pass players who join an online game after FM's 27.1.1 update."
     }
   }
 }
