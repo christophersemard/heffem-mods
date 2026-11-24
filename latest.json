@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-24T14:24:21Z",
+  "published": "2026-11-24T15:18:14Z",
   "mods": {
     "academy": {
-      "version": "1.0.13",
+      "version": "1.0.14",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.13/HeffemAcademy.dll",
-      "sha256": "a5e3e8da55835e36d15078a970a96562f3f01f86bc7418bbc825d7de818694d7",
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.14/HeffemAcademy.dll",
+      "sha256": "ce2f6a58dbed9be20c65ed50a2d98439360a44739c871013174f55158b2965a4",
       "size": 8478208,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouveau : traduction en arabe, merci à A.Salah91 ! Corrigé : le mod qui se mettait en pause sur Mac après la mise à jour 27.1.1 de FM. Les rapports de problème joignent maintenant le journal du jeu d'une session qui a planté.",
-      "messageEn": "New: Arabic translation, thanks to A.Salah91! Fixed the mod pausing on Mac after FM's 27.1.1 update. Problem reports now include the game log of a session that crashed."
+      "messageFr": "Corrigé : le mod qui se mettait en pause chez les joueurs qui rejoignent une partie en ligne, après la mise à jour 27.1.1 de FM.",
+      "messageEn": "Fixed the mod pausing for players who join an online game after FM's 27.1.1 update."
     },
     "tirage": {
       "version": "0.6.31",
