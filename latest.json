@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-24T15:43:14Z",
+  "published": "2026-11-24T16:21:00Z",
   "mods": {
     "academy": {
-      "version": "1.0.14",
+      "version": "1.0.15",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.14/HeffemAcademy.dll",
-      "sha256": "ce2f6a58dbed9be20c65ed50a2d98439360a44739c871013174f55158b2965a4",
-      "size": 8478208,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.15/HeffemAcademy.dll",
+      "sha256": "85d9b14cdbf9f3b82f39d09704495b6f9eacdef4148e3624d82e64d30c401a4b",
+      "size": 8478720,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : le mod qui se mettait en pause chez les joueurs qui rejoignent une partie en ligne, après la mise à jour 27.1.1 de FM.",
-      "messageEn": "Fixed the mod pausing for players who join an online game after FM's 27.1.1 update."
+      "messageFr": "Corrigé : le mod qui se mettait en pause chez les joueurs Game Pass qui rejoignent une partie en ligne, après la mise à jour 27.1.1 de FM.",
+      "messageEn": "Fixed the mod pausing for Game Pass players who join an online game after FM's 27.1.1 update."
     },
     "tirage": {
       "version": "0.6.32",
