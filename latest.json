@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-24T17:12:32Z",
+  "published": "2026-11-25T09:17:28Z",
   "mods": {
     "academy": {
-      "version": "1.0.16",
+      "version": "1.0.17",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.16/HeffemAcademy.dll",
-      "sha256": "fcbeea98e93609751f3af58fa23083cb00a03d356e3f094297e2aaf8c5d16a4b",
-      "size": 8576000,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.17/HeffemAcademy.dll",
+      "sha256": "f1152ac02f5eaa06e1adb8bb47dbe47842568b9688fa680a5f32d3707b4c3bb3",
+      "size": 8753664,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouveau : quand FM est mis à jour ou que le jeu n'a pas démarré, un petit guide explique la fenêtre de protection du jeu (« Sorry, something went wrong ») et comment la passer. Nouveau chapitre du Guide sur les enfants qui arrivent par leur famille (légendes, tes joueurs, ton propre enfant), avec leurs chances. Rapports du réseau plus clairs. Corrigé : la page Mon centre qui tremblait.",
-      "messageEn": "New: when FM gets updated or the game didn't start, a short guide now explains the game's copy protection window (\"Sorry, something went wrong\") and how to get past it. New Guide chapter on kids joining through family (legends, your players, your own child), with their chances. Clearer network reports. Fixed the My centre page shaking."
+      "messageFr": "Nouveau : six événements inspirés de vraies histoires d'académie (parents en guerre, un vélo volé en tournoi, le groupe WhatsApp des parents, une famille qui déménage, et d'autres). Les convocations en sélection vont seulement aux vrais bons, avec un nouveau choix quand le stage tombe pendant un tournoi. La barre de prestige montre ta progression vers le niveau suivant. Ton responsable des jeunes est relu à chaque ouverture de l'académie. Corrigé : une promotion qui pouvait être crue passée à tort ; elle apparaît maintenant dans tes archives. Correctifs pour les parties en ligne Game Pass.",
+      "messageEn": "New: six academy events inspired by real academy stories (parents at war, a stolen bike on a tournament trip, a parents' WhatsApp group, a family moving away, and more). National team call-ups now only go to genuinely good kids, with a new choice when the camp clashes with a tournament. The academy prestige bar now shows your progress towards the next level. Your Head of Youth Development is read again each time you open the academy. Fixed an intake that could be wrongly marked as already passed: it now shows in your archives. Fixes for Game Pass online games."
     },
     "tirage": {
       "version": "0.6.34",
