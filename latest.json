@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-25T11:11:19Z",
+  "published": "2026-11-25T21:36:59Z",
   "mods": {
     "academy": {
-      "version": "1.0.17",
+      "version": "1.0.18",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.17/HeffemAcademy.dll",
-      "sha256": "f1152ac02f5eaa06e1adb8bb47dbe47842568b9688fa680a5f32d3707b4c3bb3",
-      "size": 8753664,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.18/HeffemAcademy.dll",
+      "sha256": "ec07c50121065cb167e6c20234dc791e119f3780be5638a29fa645efeff05c7a",
+      "size": 9147392,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouveau : six événements inspirés de vraies histoires d'académie (parents en guerre, un vélo volé en tournoi, le groupe WhatsApp des parents, une famille qui déménage, et d'autres). Les convocations en sélection vont seulement aux vrais bons, avec un nouveau choix quand le stage tombe pendant un tournoi. La barre de prestige montre ta progression vers le niveau suivant. Ton responsable des jeunes est relu à chaque ouverture de l'académie. Corrigé : une promotion qui pouvait être crue passée à tort ; elle apparaît maintenant dans tes archives. Correctifs pour les parties en ligne Game Pass.",
-      "messageEn": "New: six academy events inspired by real academy stories (parents at war, a stolen bike on a tournament trip, a parents' WhatsApp group, a family moving away, and more). National team call-ups now only go to genuinely good kids, with a new choice when the camp clashes with a tournament. The academy prestige bar now shows your progress towards the next level. Your Head of Youth Development is read again each time you open the academy. Fixed an intake that could be wrongly marked as already passed: it now shows in your archives. Fixes for Game Pass online games."
+      "messageFr": "Nouveau : le grec. Les phénomènes sont maintenant de vrais phénomènes : ils arrivent au-dessus du reste de leur promotion, avec des attributs à la hauteur. Les phénomènes arrivés récemment sont réévalués automatiquement. Les enfants arrivent avec des attributs qui correspondent à leur niveau actuel, et un profil plus équilibré. Une recrue venue de l'extérieur montre son radar dès sa signature. Les jeunes à l'essai de ta promotion affichent « À l'essai : propose-lui un contrat » au lieu de « sans club ». Corrigé : un même attribut pouvait apparaître en point fort et en point faible. L'équipe des jeunes à l'essai n'apparaît plus dans ton staff. Corrigé : la fenêtre d'aide au lancement pouvait s'afficher à chaque lancement.",
+      "messageEn": "New: Greek language. Phenomena are now true phenomena: they arrive above the rest of their intake, with attributes that match their level. Phenomena who arrived recently are re-evaluated automatically. Arriving kids now get attributes that match their current ability, with a more balanced profile. Kids signed from outside now show their radar as soon as they join. Kids on trial in your intake now show \"On trial: offer him a contract\" instead of \"no club\". Fixed a strength and a weak point that could show the same attribute. The youth candidates team no longer appears in your staff. Fixed the launch help window that could appear at every launch."
     },
     "tirage": {
       "version": "0.6.35",
