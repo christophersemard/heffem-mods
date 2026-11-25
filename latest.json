@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "published": "2026-11-25T22:45:51Z",
+  "published": "2026-11-25T22:55:52Z",
   "mods": {
     "academy": {
       "version": "1.0.20",
@@ -13,14 +13,14 @@
       "messageEn": "Academy radars reworked: top kids no longer show the same letter in every branch, each kid now has real strengths and weaker areas, which makes it much easier to target their training. Your kids didn't get worse: their potential, current level and the ability they arrive with are unchanged, only the shape of the radar changed. Arriving kids get more marked strengths in their attributes."
     },
     "tirage": {
-      "version": "0.6.36",
+      "version": "0.6.37",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.36/HeffemTirage.dll",
-      "sha256": "9117ec00bfb68928f9522c739445e7539aed141b609ced565839df4e39e8bcc1",
-      "size": 2734080,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.37/HeffemTirage.dll",
+      "sha256": "20dbb9c6145c703622d91bcb481122f8aa25f741688d4c88a61148415d5146e6",
+      "size": 2737664,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouveau : le marché suit le tirage. Les clubs d'un pays boosté gagnent aussi sur le marché : la valeur des joueurs, les salaires et les partenariats montent au niveau des pays qui ont le même NFJ et la même économie, et un pays handicapé perd de la même façon. Si ta partie a déjà des tirages, tu peux choisir de l'appliquer à eux aussi. Nouveaux préréglages : Léger, Intermédiaire et Heffem. Le NFJ ne peut plus être désactivé. Langue grecque. Corrigé : la fenêtre d'aide au lancement pouvait s'afficher à chaque lancement.",
-      "messageEn": "New: the market follows the draw. A boosted country's clubs now gain on the market too: player values, wages and sponsorship rise to the level of countries with the same youth rating and economy, and a handicapped country loses the same way. If your save already has draws, you can choose to apply it to them. New presets: Light, Medium and Heffem. Youth rating can no longer be turned off. Greek language. Fixed the launch help window that could appear at every launch."
+      "messageFr": "Le marché tient maintenant compte de la réputation du championnat : un handicap fait toujours baisser le marché d'un pays, mais un grand championnat ne perd qu'une partie de sa valeur, et un pays boosté au championnat modeste gagne un peu moins. Les parties où un grand championnat avait déjà trop perdu sont réparées automatiquement.",
+      "messageEn": "The market now takes the league's reputation into account: a handicap still lowers a country's market, but a top league only loses a part of its value, and a boosted country with a modest league gains a little less. Saves where a top league had already lost too much are repaired automatically."
     }
   }
 }

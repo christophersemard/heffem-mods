@@ -15,7 +15,7 @@ Latest packages of each mod. These links never change: share them as they are. /
 <!-- /downloads:academy -->
 
 <!-- downloads:tirage -->
-**Heffem Nations Draw** (0.6.36): [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Mac.zip)
+**Heffem Nations Draw** (0.6.37): [Windows (installer)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Windows.zip) · [Windows (manual install)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Windows-manual.zip) · [Mac (Apple Silicon)](https://github.com/christophersemard/heffem-mods/releases/download/tirage-latest/Heffem-Nations-Draw-Mac.zip)
 <!-- /downloads:tirage -->
 <!-- /downloads-section -->
 
