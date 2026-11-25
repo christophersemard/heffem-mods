@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "published": "2026-11-25T09:17:28Z",
+  "published": "2026-11-25T11:11:19Z",
   "mods": {
     "academy": {
       "version": "1.0.17",
@@ -13,14 +13,14 @@
       "messageEn": "New: six academy events inspired by real academy stories (parents at war, a stolen bike on a tournament trip, a parents' WhatsApp group, a family moving away, and more). National team call-ups now only go to genuinely good kids, with a new choice when the camp clashes with a tournament. The academy prestige bar now shows your progress towards the next level. Your Head of Youth Development is read again each time you open the academy. Fixed an intake that could be wrongly marked as already passed: it now shows in your archives. Fixes for Game Pass online games."
     },
     "tirage": {
-      "version": "0.6.34",
+      "version": "0.6.35",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.34/HeffemTirage.dll",
-      "sha256": "ce2dc4ea622f98f13a55041aa33e908dae2e8a511d9e235b2a4abfcf85998a33",
-      "size": 2610176,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.35/HeffemTirage.dll",
+      "sha256": "b0e25b84244087d8d46e4ba95d48fea1ef1b92913d86b1d6959883bc6579c330",
+      "size": 2610688,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Nouveau : quand FM est mis à jour ou que le jeu n'a pas démarré, un petit guide explique la fenêtre de protection du jeu (« Sorry, something went wrong ») et comment la passer.",
-      "messageEn": "New: when FM gets updated or the game didn't start, a short guide now explains the game's copy protection window (\"Sorry, something went wrong\") and how to get past it."
+      "messageFr": "Correctifs pour les parties en ligne Game Pass après la mise à jour 27.1.1 de FM.",
+      "messageEn": "Fixes for Game Pass online games after FM's 27.1.1 update."
     }
   }
 }
