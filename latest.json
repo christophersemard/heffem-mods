@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-25T22:08:44Z",
+  "published": "2026-11-25T22:45:51Z",
   "mods": {
     "academy": {
-      "version": "1.0.19",
+      "version": "1.0.20",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.19/HeffemAcademy.dll",
-      "sha256": "66d4de2c5c924f663f4960cc25ebb6ad25393a572b6f43c7cb9c0824bc4fe1e2",
-      "size": 9149952,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.20/HeffemAcademy.dll",
+      "sha256": "4b46a86ca859a3ee800d6611eb2d0444d9a1f2713c2826a4468ec498b12a8bdc",
+      "size": 9152000,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les attributs des enfants qui arrivent correspondent plus précisément à leur niveau. Le radar des gardiens correspond maintenant à celui du jeu. Corrigé : la réévaluation des phénomènes arrivés avant cette saison.",
-      "messageEn": "Arriving kids' attributes now match their level more precisely. The goalkeeper radar now matches the game's. Fixed the re-evaluation of phenomena who arrived before this season."
+      "messageFr": "Radars de l'académie revus : les meilleurs enfants n'ont plus la même lettre dans toutes les branches, chacun a maintenant de vrais points forts et des branches plus faibles, ce qui aide beaucoup à cibler leur entraînement. Tes enfants ne sont pas devenus moins bons : leur potentiel, leur niveau actuel et le niveau avec lequel ils arrivent ne changent pas, seule la forme du radar change. Les enfants qui arrivent ont des points forts plus marqués dans leurs attributs.",
+      "messageEn": "Academy radars reworked: top kids no longer show the same letter in every branch, each kid now has real strengths and weaker areas, which makes it much easier to target their training. Your kids didn't get worse: their potential, current level and the ability they arrive with are unchanged, only the shape of the radar changed. Arriving kids get more marked strengths in their attributes."
     },
     "tirage": {
       "version": "0.6.36",
