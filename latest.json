@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-26T00:08:09Z",
+  "published": "2026-11-26T09:32:02Z",
   "mods": {
     "academy": {
-      "version": "1.0.20",
+      "version": "1.0.21",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.20/HeffemAcademy.dll",
-      "sha256": "4b46a86ca859a3ee800d6611eb2d0444d9a1f2713c2826a4468ec498b12a8bdc",
-      "size": 9152000,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.21/HeffemAcademy.dll",
+      "sha256": "419dd84383caadc769da807aa98237e0226cf430c7adb445de4a6814f916eb59",
+      "size": 9154560,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Radars de l'académie revus : les meilleurs enfants n'ont plus la même lettre dans toutes les branches, chacun a maintenant de vrais points forts et des branches plus faibles, ce qui aide beaucoup à cibler leur entraînement. Tes enfants ne sont pas devenus moins bons : leur potentiel, leur niveau actuel et le niveau avec lequel ils arrivent ne changent pas, seule la forme du radar change. Les enfants qui arrivent ont des points forts plus marqués dans leurs attributs.",
-      "messageEn": "Academy radars reworked: top kids no longer show the same letter in every branch, each kid now has real strengths and weaker areas, which makes it much easier to target their training. Your kids didn't get worse: their potential, current level and the ability they arrive with are unchanged, only the shape of the radar changed. Arriving kids get more marked strengths in their attributes."
+      "messageFr": "Jeu plus fluide : l'académie ne refait plus ses vérifications toutes les quelques secondes, seulement une fois par jour de jeu, et plus du tout pendant les matchs. Les académies bloquées sur un mois en avance de la date du jeu (détections refusées) sont débloquées automatiquement. Mac : le lanceur ne bloque plus le démarrage du jeu quand macOS laisse des fichiers cachés dans le dossier du jeu.",
+      "messageEn": "Smoother play: the academy no longer repeats its checks every few seconds, only once per game day, and never during matches. Academies stuck on a month ahead of the game date (scouting trips refused) are unblocked automatically. Mac: the launcher no longer fails to start the game when macOS leaves hidden files in the game folder."
     },
     "tirage": {
       "version": "0.6.38",
