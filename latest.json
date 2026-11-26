@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-26T09:32:02Z",
+  "published": "2026-11-26T10:05:13Z",
   "mods": {
     "academy": {
-      "version": "1.0.21",
+      "version": "1.0.22",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.21/HeffemAcademy.dll",
-      "sha256": "419dd84383caadc769da807aa98237e0226cf430c7adb445de4a6814f916eb59",
-      "size": 9154560,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.22/HeffemAcademy.dll",
+      "sha256": "3b6b006bf590db2141b65fb971bb159b61e438908021ed9f91c6f7d16fdfa581",
+      "size": 9155072,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Jeu plus fluide : l'académie ne refait plus ses vérifications toutes les quelques secondes, seulement une fois par jour de jeu, et plus du tout pendant les matchs. Les académies bloquées sur un mois en avance de la date du jeu (détections refusées) sont débloquées automatiquement. Mac : le lanceur ne bloque plus le démarrage du jeu quand macOS laisse des fichiers cachés dans le dossier du jeu.",
-      "messageEn": "Smoother play: the academy no longer repeats its checks every few seconds, only once per game day, and never during matches. Academies stuck on a month ahead of the game date (scouting trips refused) are unblocked automatically. Mac: the launcher no longer fails to start the game when macOS leaves hidden files in the game folder."
+      "messageFr": "Corrigé : une erreur au chargement d'une partie sur certains PC, l'académie ne pouvait pas enregistrer ses données quand un de ses fichiers était en lecture seule ou bloqué par un autre programme.",
+      "messageEn": "Fixed an error when loading a save on some PCs: the academy couldn't save its data when one of its files was read-only or locked by another program."
     },
     "tirage": {
       "version": "0.6.38",
