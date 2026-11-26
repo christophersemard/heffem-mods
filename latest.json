@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "published": "2026-11-25T22:55:52Z",
+  "published": "2026-11-26T00:08:09Z",
   "mods": {
     "academy": {
       "version": "1.0.20",
@@ -13,14 +13,14 @@
       "messageEn": "Academy radars reworked: top kids no longer show the same letter in every branch, each kid now has real strengths and weaker areas, which makes it much easier to target their training. Your kids didn't get worse: their potential, current level and the ability they arrive with are unchanged, only the shape of the radar changed. Arriving kids get more marked strengths in their attributes."
     },
     "tirage": {
-      "version": "0.6.37",
+      "version": "0.6.38",
       "dll": "HeffemTirage.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.37/HeffemTirage.dll",
-      "sha256": "20dbb9c6145c703622d91bcb481122f8aa25f741688d4c88a61148415d5146e6",
-      "size": 2737664,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/tirage-0.6.38/HeffemTirage.dll",
+      "sha256": "20a4996bb985a6e99424cfea9a1618fb058a57f5b1e22a725c9e0f4c49484339",
+      "size": 2765824,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Le marché tient maintenant compte de la réputation du championnat : un handicap fait toujours baisser le marché d'un pays, mais un grand championnat ne perd qu'une partie de sa valeur, et un pays boosté au championnat modeste gagne un peu moins. Les parties où un grand championnat avait déjà trop perdu sont réparées automatiquement.",
-      "messageEn": "The market now takes the league's reputation into account: a handicap still lowers a country's market, but a top league only loses a part of its value, and a boosted country with a modest league gains a little less. Saves where a top league had already lost too much are repaired automatically."
+      "messageFr": "Équilibrage du marché : un pays boosté au championnat modeste gagne moins, puis rattrape avec le temps quand la réputation de son championnat monte. Les parties avec des boosts passés sont ajustées automatiquement.",
+      "messageEn": "Market balancing: a boosted country with a modest league now gains less, and catches up over time as its league's reputation grows. Saves with past boosts are adjusted automatically."
     }
   }
 }
