@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-27T12:06:07Z",
+  "published": "2026-11-27T22:21:40Z",
   "mods": {
     "academy": {
-      "version": "1.0.24",
+      "version": "1.0.25",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.24/HeffemAcademy.dll",
-      "sha256": "efdd9126b9080c3e5a7675a2384488bafe5439eaed7b8c06aa6ec206f404a176",
-      "size": 9177088,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.25/HeffemAcademy.dll",
+      "sha256": "c890a0d1ef4236b5078a3da637fcd23434a1af3820505c8d2a37b8ada4ec6c90",
+      "size": 9183744,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Les nouveaux jeunes ont des profils plus réalistes pour leur poste, plus proches des vrais jeunes de Football Manager (latéraux, ailiers, meneurs, buteurs, gardiens...). Les enfants déjà à l'académie gardent leur radar actuel. Les rapports vérifient aussi les visages écrits sur les jeunes arrivés.",
-      "messageEn": "New youngsters now have more realistic profiles for their position, closer to real Football Manager youth players (full-backs, wingers, playmakers, strikers, keepers...). Kids already in your academy keep their current radar. Reports now include a check of the faces written to arrived kids."
+      "messageFr": "Les clubs dont la ville a une région locale dans un autre pays (bases modifiées) ont maintenant des jeunes du coin avec les deux nationalités, comme dans le jeu. Mac : rejoindre la partie en ligne d'un autre joueur affiche maintenant un message clair au lieu d'un faux « version pas reconnue ».",
+      "messageEn": "Clubs whose city has a local region in another country (custom databases) now get local youngsters with both nationalities, like the game does. Mac: joining another player's online game now shows a clear message instead of a wrong \"version not recognised\" one."
     },
     "tirage": {
       "version": "0.6.38",
