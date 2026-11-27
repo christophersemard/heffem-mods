@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-26T10:05:13Z",
+  "published": "2026-11-27T00:14:20Z",
   "mods": {
     "academy": {
-      "version": "1.0.22",
+      "version": "1.0.23",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.22/HeffemAcademy.dll",
-      "sha256": "3b6b006bf590db2141b65fb971bb159b61e438908021ed9f91c6f7d16fdfa581",
-      "size": 9155072,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.23/HeffemAcademy.dll",
+      "sha256": "ab93900f9456a1240d9fcda9ea7a334ba2404b78ec0bbc1913d4e5cdecdba50e",
+      "size": 9172480,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : une erreur au chargement d'une partie sur certains PC, l'académie ne pouvait pas enregistrer ses données quand un de ses fichiers était en lecture seule ou bloqué par un autre programme.",
-      "messageEn": "Fixed an error when loading a save on some PCs: the academy couldn't save its data when one of its files was read-only or locked by another program."
+      "messageFr": "Les enfants de l'académie arrivent maintenant avec des attributs fidèles à leur radar et à leur vrai niveau : plus de notes à 1-3 chez les jeunes prometteurs. Un point faible corrigé par le travail ne compte plus. Attention : les enfants arrivés dans ton club il y a moins d'un an seront remodelés une fois sur leur radar, et ceux arrivés il y a 1 à 3 saisons verront leurs notes aberrantes corrigées (leur niveau actuel ne change pas). Plus de faux message « version non prise en charge » à la création d'une carrière. Mac : le mur des anciens explique pourquoi il reste vide. Traduction vietnamienne mise à jour, merci à Minh Quân.",
+      "messageEn": "Academy kids now arrive with attributes that match their profile radar and their real level: no more 1-3 ratings on promising youngsters. A weak point fixed by training no longer counts. Heads-up: kids who joined your club less than a year ago will be reshaped once to match their radar, and those who joined 1 to 3 seasons ago get their unrealistic low ratings fixed (their current ability doesn't change). No more false \"version not supported\" message while creating a new career. Mac: the alumni wall now explains why it stays empty. Vietnamese translation updated, thanks to Minh Quân."
     },
     "tirage": {
       "version": "0.6.38",
