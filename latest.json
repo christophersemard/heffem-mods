@@ -1,16 +1,16 @@
 {
   "format": 1,
-  "published": "2026-11-28T11:37:40Z",
+  "published": "2026-11-28T12:33:37Z",
   "mods": {
     "academy": {
-      "version": "1.0.26",
+      "version": "1.0.27",
       "dll": "HeffemAcademy.dll",
-      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.26/HeffemAcademy.dll",
-      "sha256": "fa7d557b814f2a86f154725e821ad005ba68f75b304611af2b015408ba89bd24",
-      "size": 9184768,
+      "url": "https://github.com/christophersemard/heffem-mods/releases/download/academy-1.0.27/HeffemAcademy.dll",
+      "sha256": "9ae6eb047634628b1baeb643a2520d8fee66f729c03d059354e75e5216d32688",
+      "size": 9190400,
       "minLoader": "BepInEx 6 be.793",
-      "messageFr": "Corrigé : les promotions annoncées en fin d'année étaient fermées un mois trop tôt, ce qui repoussait les enfants de l'académie d'un an (les enfants déjà repoussés reviennent à l'annonce de la promotion par le jeu). Créer une nouvelle carrière juste après en avoir joué une autre ne laisse plus le mod en pause.",
-      "messageEn": "Fixed youth intakes announced at the end of the year being closed a month too early, which pushed academy kids back a year (kids already pushed back return when the game announces the intake). Starting a new career right after playing another one no longer leaves the mod paused."
+      "messageFr": "Les académies partenaires ne ferment plus quand le club ne peut pas payer leurs frais annuels : l'argent est prélevé quand même, même si le solde passe dans le rouge. Les académies fermées ainsi auparavant sont rétablies une fois : rouvertes, ou ton rachat remboursé (les frais manqués sont prélevés).",
+      "messageEn": "Partner academies no longer close when the club can't pay their yearly running costs: the money is taken anyway, even if your balance goes negative. Academies closed this way before are restored once: reopened, or your new purchase refunded (the missed running costs are charged)."
     },
     "tirage": {
       "version": "0.6.38",
